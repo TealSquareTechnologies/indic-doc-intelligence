@@ -1,0 +1,14 @@
+{
+  "Recognition, no preparation": 1.1445666666666667,
+  "Recognition with preparation": 1.7779,
+  "Correction (model, one page)": 10.02725,
+  "Translation (model, one sentence)": 2.8145000000000002,
+  "Answer, retrieval only (refused)": 0.11,
+  "Answer with the model": 3.0353061224489797,
+  "Detection, one page": 0.0009344000136479735,
+  "Chunking, 240 sentences": 0.0011113000073237345,
+  "Embedding, one 80-word chunk": 0.022216400000615977,
+  "Embedding, one question": 0.009493600009591319,
+  "Indexing 303 chunks (all 997 sentences)": 3.999259300006088,
+  "Search over 303 chunks": 5.0650007324293256e-05
+}

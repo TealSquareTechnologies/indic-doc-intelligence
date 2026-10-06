@@ -1,0 +1,92 @@
+[
+  {
+    "code": "eng",
+    "sentences": 997,
+    "top1_correct": 997,
+    "top1_accuracy": 1.0,
+    "secondary_scripts": {}
+  },
+  {
+    "code": "hin",
+    "sentences": 997,
+    "top1_correct": 997,
+    "top1_accuracy": 1.0,
+    "secondary_scripts": {
+      "eng": 17
+    }
+  },
+  {
+    "code": "ben",
+    "sentences": 997,
+    "top1_correct": 997,
+    "top1_accuracy": 1.0,
+    "secondary_scripts": {
+      "eng": 10
+    }
+  },
+  {
+    "code": "pan",
+    "sentences": 997,
+    "top1_correct": 996,
+    "top1_accuracy": 0.999,
+    "secondary_scripts": {
+      "eng": 18,
+      "pan": 1
+    }
+  },
+  {
+    "code": "guj",
+    "sentences": 997,
+    "top1_correct": 997,
+    "top1_accuracy": 1.0,
+    "secondary_scripts": {
+      "eng": 12
+    }
+  },
+  {
+    "code": "ori",
+    "sentences": 997,
+    "top1_correct": 997,
+    "top1_accuracy": 1.0,
+    "secondary_scripts": {
+      "eng": 25,
+      "hin": 1
+    }
+  },
+  {
+    "code": "tam",
+    "sentences": 997,
+    "top1_correct": 997,
+    "top1_accuracy": 1.0,
+    "secondary_scripts": {
+      "eng": 23
+    }
+  },
+  {
+    "code": "tel",
+    "sentences": 997,
+    "top1_correct": 997,
+    "top1_accuracy": 1.0,
+    "secondary_scripts": {
+      "eng": 77
+    }
+  },
+  {
+    "code": "kan",
+    "sentences": 997,
+    "top1_correct": 997,
+    "top1_accuracy": 1.0,
+    "secondary_scripts": {
+      "eng": 17
+    }
+  },
+  {
+    "code": "mal",
+    "sentences": 997,
+    "top1_correct": 997,
+    "top1_accuracy": 1.0,
+    "secondary_scripts": {
+      "eng": 8
+    }
+  }
+]

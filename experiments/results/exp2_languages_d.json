@@ -1,0 +1,1352 @@
+[
+  {
+    "code": "eng",
+    "page": 0,
+    "config": "oracle",
+    "language_string": "eng",
+    "cer": 0.0,
+    "confidence": 0.957,
+    "seconds": 1.813
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.0,
+    "confidence": 0.957,
+    "seconds": 1.89
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.0,
+    "confidence": 0.957,
+    "seconds": 2.076
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "config": "two_pass",
+    "language_string": "eng",
+    "cer": 0.0,
+    "confidence": 0.957,
+    "seconds": 3.698
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "config": "oracle",
+    "language_string": "eng",
+    "cer": 0.0011587485515643105,
+    "confidence": 0.9571,
+    "seconds": 1.893
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.0011587485515643105,
+    "confidence": 0.9571,
+    "seconds": 1.995
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.0011587485515643105,
+    "confidence": 0.9571,
+    "seconds": 2.233
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "config": "two_pass",
+    "language_string": "eng",
+    "cer": 0.0011587485515643105,
+    "confidence": 0.9571,
+    "seconds": 3.936
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "config": "oracle",
+    "language_string": "eng",
+    "cer": 0.008,
+    "confidence": 0.9478,
+    "seconds": 1.784
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.008,
+    "confidence": 0.9495,
+    "seconds": 2.578
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.0128,
+    "confidence": 0.9511,
+    "seconds": 3.786
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "config": "two_pass",
+    "language_string": "eng",
+    "cer": 0.008,
+    "confidence": 0.9478,
+    "seconds": 4.32
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "config": "oracle",
+    "language_string": "hin",
+    "cer": 0.022026431718061675,
+    "confidence": 0.9245,
+    "seconds": 1.865
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.7870778267254038,
+    "confidence": 0.5509,
+    "seconds": 4.058
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.002936857562408223,
+    "confidence": 0.9446,
+    "seconds": 5.047
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "config": "two_pass",
+    "language_string": "eng+tam+kan",
+    "cer": 0.7870778267254038,
+    "confidence": 0.5442,
+    "seconds": 7.155
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "config": "oracle",
+    "language_string": "hin",
+    "cer": 0.013605442176870748,
+    "confidence": 0.9136,
+    "seconds": 2.006
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.8095238095238095,
+    "confidence": 0.5746,
+    "seconds": 4.446
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.014965986394557823,
+    "confidence": 0.9384,
+    "seconds": 5.918
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "config": "two_pass",
+    "language_string": "eng+tam+tel+kan",
+    "cer": 0.8108843537414966,
+    "confidence": 0.5799,
+    "seconds": 8.926
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "config": "oracle",
+    "language_string": "hin",
+    "cer": 0.008445945945945946,
+    "confidence": 0.914,
+    "seconds": 1.818
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.7888513513513513,
+    "confidence": 0.5897,
+    "seconds": 3.993
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.06587837837837837,
+    "confidence": 0.9188,
+    "seconds": 6.131
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "config": "two_pass",
+    "language_string": "eng+tam+tel",
+    "cer": 0.7905405405405406,
+    "confidence": 0.5711,
+    "seconds": 7.194
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "config": "oracle",
+    "language_string": "ben",
+    "cer": 0.011441647597254004,
+    "confidence": 0.8893,
+    "seconds": 1.875
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.8524027459954233,
+    "confidence": 0.5165,
+    "seconds": 5.571
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.04805491990846682,
+    "confidence": 0.8896,
+    "seconds": 9.479
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "config": "two_pass",
+    "language_string": "eng+tam+kan+tel",
+    "cer": 0.8524027459954233,
+    "confidence": 0.5214,
+    "seconds": 11.226
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "config": "oracle",
+    "language_string": "ben",
+    "cer": 0.011124845488257108,
+    "confidence": 0.9107,
+    "seconds": 1.877
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.826946847960445,
+    "confidence": 0.5398,
+    "seconds": 5.293
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.023485784919653894,
+    "confidence": 0.9106,
+    "seconds": 6.921
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "config": "two_pass",
+    "language_string": "eng+tam+kan+tel",
+    "cer": 0.8257107540173053,
+    "confidence": 0.5417,
+    "seconds": 10.763
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "config": "oracle",
+    "language_string": "ben",
+    "cer": 0.011402508551881414,
+    "confidence": 0.8951,
+    "seconds": 1.873
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.855188141391106,
+    "confidence": 0.4867,
+    "seconds": 5.594
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.027366020524515394,
+    "confidence": 0.9063,
+    "seconds": 8.784
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "config": "two_pass",
+    "language_string": "eng+tam+tel+kan",
+    "cer": 0.8540478905359179,
+    "confidence": 0.4952,
+    "seconds": 11.273
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "config": "oracle",
+    "language_string": "pan",
+    "cer": 0.01293103448275862,
+    "confidence": 0.9352,
+    "seconds": 1.618
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.7931034482758621,
+    "confidence": 0.5633,
+    "seconds": 4.309
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.0603448275862069,
+    "confidence": 0.9354,
+    "seconds": 5.57
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "config": "two_pass",
+    "language_string": "eng+tam+tel",
+    "cer": 0.7916666666666666,
+    "confidence": 0.563,
+    "seconds": 7.849
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "config": "oracle",
+    "language_string": "pan",
+    "cer": 0.015736766809728183,
+    "confidence": 0.9205,
+    "seconds": 1.683
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.7982832618025751,
+    "confidence": 0.5614,
+    "seconds": 4.195
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.08726752503576538,
+    "confidence": 0.9147,
+    "seconds": 7.14
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "config": "two_pass",
+    "language_string": "eng+tam+tel",
+    "cer": 0.7982832618025751,
+    "confidence": 0.5418,
+    "seconds": 7.547
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "config": "oracle",
+    "language_string": "pan",
+    "cer": 0.02269503546099291,
+    "confidence": 0.9148,
+    "seconds": 1.634
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.7929078014184398,
+    "confidence": 0.5957,
+    "seconds": 4.145
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.05815602836879433,
+    "confidence": 0.9167,
+    "seconds": 7.168
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "config": "two_pass",
+    "language_string": "eng+tam+tel+kan",
+    "cer": 0.7914893617021277,
+    "confidence": 0.5996,
+    "seconds": 8.313
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "config": "oracle",
+    "language_string": "guj",
+    "cer": 0.0136986301369863,
+    "confidence": 0.8937,
+    "seconds": 1.853
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.8273972602739726,
+    "confidence": 0.4932,
+    "seconds": 4.142
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.021917808219178082,
+    "confidence": 0.9061,
+    "seconds": 7.079
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "config": "two_pass",
+    "language_string": "eng+tam+tel+kan",
+    "cer": 0.8273972602739726,
+    "confidence": 0.4962,
+    "seconds": 8.192
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "config": "oracle",
+    "language_string": "guj",
+    "cer": 0.00851581508515815,
+    "confidence": 0.9091,
+    "seconds": 1.95
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.8090024330900243,
+    "confidence": 0.4862,
+    "seconds": 5.159
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.025547445255474453,
+    "confidence": 0.9176,
+    "seconds": 8.781
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "config": "two_pass",
+    "language_string": "eng+tam+tel",
+    "cer": 0.8090024330900243,
+    "confidence": 0.4639,
+    "seconds": 9.093
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "config": "oracle",
+    "language_string": "guj",
+    "cer": 0.021080368906455864,
+    "confidence": 0.8989,
+    "seconds": 1.966
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.8274044795783926,
+    "confidence": 0.5203,
+    "seconds": 4.428
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.04743083003952569,
+    "confidence": 0.896,
+    "seconds": 8.826
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "config": "two_pass",
+    "language_string": "eng+tam+tel+kan",
+    "cer": 0.8221343873517787,
+    "confidence": 0.5179,
+    "seconds": 10.302
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "config": "oracle",
+    "language_string": "ori",
+    "cer": 0.04807692307692308,
+    "confidence": 0.8453,
+    "seconds": 2.217
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.8413461538461539,
+    "confidence": 0.5987,
+    "seconds": 4.275
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.11538461538461539,
+    "confidence": 0.8797,
+    "seconds": 7.438
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "config": "two_pass",
+    "language_string": "eng+tam",
+    "cer": 0.8413461538461539,
+    "confidence": 0.5279,
+    "seconds": 6.858
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "config": "oracle",
+    "language_string": "ori",
+    "cer": 0.06329113924050633,
+    "confidence": 0.7827,
+    "seconds": 2.045
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.8202531645569621,
+    "confidence": 0.5872,
+    "seconds": 3.887
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.19873417721518988,
+    "confidence": 0.838,
+    "seconds": 8.015
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "config": "two_pass",
+    "language_string": "eng+tam",
+    "cer": 0.8240506329113924,
+    "confidence": 0.4976,
+    "seconds": 6.283
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "config": "oracle",
+    "language_string": "ori",
+    "cer": 0.03519417475728155,
+    "confidence": 0.846,
+    "seconds": 1.991
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.8313106796116505,
+    "confidence": 0.6203,
+    "seconds": 3.952
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.14927184466019416,
+    "confidence": 0.8755,
+    "seconds": 8.215
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "config": "two_pass",
+    "language_string": "eng+tam",
+    "cer": 0.8325242718446602,
+    "confidence": 0.5364,
+    "seconds": 6.419
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "config": "oracle",
+    "language_string": "tam",
+    "cer": 0.6966507177033493,
+    "confidence": 0.8211,
+    "seconds": 2.178
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.6956937799043063,
+    "confidence": 0.8515,
+    "seconds": 5.243
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.5205741626794258,
+    "confidence": 0.8945,
+    "seconds": 8.216
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "config": "two_pass",
+    "language_string": "tam",
+    "cer": 0.6966507177033493,
+    "confidence": 0.8211,
+    "seconds": 7.439
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "config": "oracle",
+    "language_string": "tam",
+    "cer": 0.04135021097046414,
+    "confidence": 0.868,
+    "seconds": 2.371
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.046413502109704644,
+    "confidence": 0.8772,
+    "seconds": 6.436
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.06244725738396625,
+    "confidence": 0.8823,
+    "seconds": 12.609
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "config": "two_pass",
+    "language_string": "tam",
+    "cer": 0.04135021097046414,
+    "confidence": 0.868,
+    "seconds": 8.757
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "config": "oracle",
+    "language_string": "tam",
+    "cer": 0.01639344262295082,
+    "confidence": 0.8977,
+    "seconds": 2.261
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.01639344262295082,
+    "confidence": 0.8977,
+    "seconds": 5.373
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.02185792349726776,
+    "confidence": 0.899,
+    "seconds": 9.457
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "config": "two_pass",
+    "language_string": "tam",
+    "cer": 0.01639344262295082,
+    "confidence": 0.8977,
+    "seconds": 7.664
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "config": "oracle",
+    "language_string": "tel",
+    "cer": 0.06498545101842872,
+    "confidence": 0.7865,
+    "seconds": 2.301
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.09990300678952474,
+    "confidence": 0.8272,
+    "seconds": 4.692
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.17458777885548013,
+    "confidence": 0.8335,
+    "seconds": 11.391
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "config": "two_pass",
+    "language_string": "tel",
+    "cer": 0.06498545101842872,
+    "confidence": 0.7865,
+    "seconds": 6.965
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "config": "oracle",
+    "language_string": "tel",
+    "cer": 0.04643628509719223,
+    "confidence": 0.8418,
+    "seconds": 2.21
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.09935205183585313,
+    "confidence": 0.8697,
+    "seconds": 4.106
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.12958963282937366,
+    "confidence": 0.8769,
+    "seconds": 8.952
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "config": "two_pass",
+    "language_string": "tel",
+    "cer": 0.04643628509719223,
+    "confidence": 0.8418,
+    "seconds": 6.301
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "config": "oracle",
+    "language_string": "tel",
+    "cer": 0.0758974358974359,
+    "confidence": 0.8008,
+    "seconds": 2.258
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.10153846153846154,
+    "confidence": 0.8467,
+    "seconds": 4.204
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.12102564102564102,
+    "confidence": 0.8427,
+    "seconds": 8.825
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "config": "two_pass",
+    "language_string": "tel+eng",
+    "cer": 0.06666666666666667,
+    "confidence": 0.8292,
+    "seconds": 7.251
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "config": "oracle",
+    "language_string": "kan",
+    "cer": 0.04108108108108108,
+    "confidence": 0.8708,
+    "seconds": 2.093
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.06054054054054054,
+    "confidence": 0.8814,
+    "seconds": 4.44
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.04216216216216216,
+    "confidence": 0.8681,
+    "seconds": 9.773
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "config": "two_pass",
+    "language_string": "kan",
+    "cer": 0.04108108108108108,
+    "confidence": 0.8708,
+    "seconds": 6.581
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "config": "oracle",
+    "language_string": "kan",
+    "cer": 0.04290091930541369,
+    "confidence": 0.8092,
+    "seconds": 2.353
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.059244126659857,
+    "confidence": 0.8206,
+    "seconds": 4.643
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.08682328907048008,
+    "confidence": 0.8258,
+    "seconds": 9.785
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "config": "two_pass",
+    "language_string": "kan",
+    "cer": 0.04290091930541369,
+    "confidence": 0.8092,
+    "seconds": 6.802
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "config": "oracle",
+    "language_string": "kan",
+    "cer": 0.033126293995859216,
+    "confidence": 0.8761,
+    "seconds": 2.242
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.045548654244306416,
+    "confidence": 0.8802,
+    "seconds": 4.486
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.052795031055900624,
+    "confidence": 0.8682,
+    "seconds": 10.947
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "config": "two_pass",
+    "language_string": "kan",
+    "cer": 0.033126293995859216,
+    "confidence": 0.8761,
+    "seconds": 6.564
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "config": "oracle",
+    "language_string": "mal",
+    "cer": 0.09040590405904059,
+    "confidence": 0.8332,
+    "seconds": 2.225
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.8782287822878229,
+    "confidence": 0.383,
+    "seconds": 6.969
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.10516605166051661,
+    "confidence": 0.8578,
+    "seconds": 12.72
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "config": "two_pass",
+    "language_string": "eng+tam+kan",
+    "cer": 0.8791512915129152,
+    "confidence": 0.3752,
+    "seconds": 11.969
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "config": "oracle",
+    "language_string": "mal",
+    "cer": 0.09800362976406533,
+    "confidence": 0.8135,
+    "seconds": 2.225
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.8811252268602541,
+    "confidence": 0.3976,
+    "seconds": 6.692
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.11887477313974591,
+    "confidence": 0.8322,
+    "seconds": 14.082
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "config": "two_pass",
+    "language_string": "eng+tam+kan",
+    "cer": 0.8820326678765881,
+    "confidence": 0.3922,
+    "seconds": 11.484
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "config": "oracle",
+    "language_string": "mal",
+    "cer": 0.08553230209281165,
+    "confidence": 0.8317,
+    "seconds": 2.157
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "config": "default",
+    "language_string": "eng+kan+tam+tel",
+    "cer": 0.8980891719745223,
+    "confidence": 0.3677,
+    "seconds": 6.795
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "config": "all_ten",
+    "language_string": "eng+hin+ben+pan+guj+ori+tam+tel+kan+mal",
+    "cer": 0.10737033666969972,
+    "confidence": 0.8503,
+    "seconds": 13.622
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "config": "two_pass",
+    "language_string": "eng+tam+kan",
+    "cer": 0.899909008189263,
+    "confidence": 0.3658,
+    "seconds": 11.62
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "config": "two_pass_all",
+    "language_string": "eng",
+    "cer": 0.0,
+    "confidence": 0.957,
+    "seconds": 4.16
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "config": "two_pass_all",
+    "language_string": "eng",
+    "cer": 0.0011587485515643105,
+    "confidence": 0.9571,
+    "seconds": 4.241
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "config": "two_pass_all",
+    "language_string": "eng",
+    "cer": 0.008,
+    "confidence": 0.9478,
+    "seconds": 5.495
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "config": "two_pass_all",
+    "language_string": "hin",
+    "cer": 0.022026431718061675,
+    "confidence": 0.9245,
+    "seconds": 6.917
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "config": "two_pass_all",
+    "language_string": "hin",
+    "cer": 0.013605442176870748,
+    "confidence": 0.9136,
+    "seconds": 8.139
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "config": "two_pass_all",
+    "language_string": "hin",
+    "cer": 0.008445945945945946,
+    "confidence": 0.914,
+    "seconds": 7.882
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "config": "two_pass_all",
+    "language_string": "ben",
+    "cer": 0.011441647597254004,
+    "confidence": 0.8893,
+    "seconds": 11.678
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "config": "two_pass_all",
+    "language_string": "ben",
+    "cer": 0.011124845488257108,
+    "confidence": 0.9107,
+    "seconds": 9.117
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "config": "two_pass_all",
+    "language_string": "ben",
+    "cer": 0.011402508551881414,
+    "confidence": 0.8951,
+    "seconds": 10.835
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "config": "two_pass_all",
+    "language_string": "pan",
+    "cer": 0.01293103448275862,
+    "confidence": 0.9352,
+    "seconds": 7.115
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "config": "two_pass_all",
+    "language_string": "pan",
+    "cer": 0.015736766809728183,
+    "confidence": 0.9205,
+    "seconds": 8.823
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "config": "two_pass_all",
+    "language_string": "pan",
+    "cer": 0.02269503546099291,
+    "confidence": 0.9148,
+    "seconds": 8.406
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "config": "two_pass_all",
+    "language_string": "guj",
+    "cer": 0.0136986301369863,
+    "confidence": 0.8937,
+    "seconds": 8.78
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "config": "two_pass_all",
+    "language_string": "guj",
+    "cer": 0.00851581508515815,
+    "confidence": 0.9091,
+    "seconds": 10.398
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "config": "two_pass_all",
+    "language_string": "guj",
+    "cer": 0.021080368906455864,
+    "confidence": 0.8989,
+    "seconds": 9.898
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "config": "two_pass_all",
+    "language_string": "ori",
+    "cer": 0.04807692307692308,
+    "confidence": 0.8453,
+    "seconds": 11.928
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "config": "two_pass_all",
+    "language_string": "ori",
+    "cer": 0.06329113924050633,
+    "confidence": 0.7827,
+    "seconds": 10.665
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "config": "two_pass_all",
+    "language_string": "ori",
+    "cer": 0.03519417475728155,
+    "confidence": 0.846,
+    "seconds": 9.867
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "config": "two_pass_all",
+    "language_string": "tam",
+    "cer": 0.6966507177033493,
+    "confidence": 0.8211,
+    "seconds": 10.449
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "config": "two_pass_all",
+    "language_string": "tam",
+    "cer": 0.04135021097046414,
+    "confidence": 0.868,
+    "seconds": 15.747
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "config": "two_pass_all",
+    "language_string": "tam",
+    "cer": 0.01639344262295082,
+    "confidence": 0.8977,
+    "seconds": 12.143
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "config": "two_pass_all",
+    "language_string": "tel",
+    "cer": 0.06498545101842872,
+    "confidence": 0.7865,
+    "seconds": 14.17
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "config": "two_pass_all",
+    "language_string": "tel",
+    "cer": 0.04643628509719223,
+    "confidence": 0.8418,
+    "seconds": 11.709
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "config": "two_pass_all",
+    "language_string": "tel+eng",
+    "cer": 0.06666666666666667,
+    "confidence": 0.8292,
+    "seconds": 13.045
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "config": "two_pass_all",
+    "language_string": "kan",
+    "cer": 0.04108108108108108,
+    "confidence": 0.8708,
+    "seconds": 12.677
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "config": "two_pass_all",
+    "language_string": "kan",
+    "cer": 0.04290091930541369,
+    "confidence": 0.8092,
+    "seconds": 12.997
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "config": "two_pass_all",
+    "language_string": "kan",
+    "cer": 0.033126293995859216,
+    "confidence": 0.8761,
+    "seconds": 14.199
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "config": "two_pass_all",
+    "language_string": "mal",
+    "cer": 0.09040590405904059,
+    "confidence": 0.8332,
+    "seconds": 19.464
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "config": "two_pass_all",
+    "language_string": "mal",
+    "cer": 0.09800362976406533,
+    "confidence": 0.8135,
+    "seconds": 19.221
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "config": "two_pass_all",
+    "language_string": "mal",
+    "cer": 0.08553230209281165,
+    "confidence": 0.8317,
+    "seconds": 17.849
+  }
+]

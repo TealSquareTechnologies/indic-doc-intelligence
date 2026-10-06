@@ -1,0 +1,86 @@
+[
+  {
+    "photo": "handwritten_notes.jpg",
+    "preprocess": true,
+    "confidence": 0.3499,
+    "elapsed_ms": 29588,
+    "detected": [
+      [
+        "kan",
+        0.5671
+      ],
+      [
+        "eng",
+        0.4329
+      ]
+    ],
+    "raw_text": "( ಲೀ ್ಪದ 65೬೧! ೨ Magarun\n\n೦3\nತುವ ಸಿ7೬ಯ ಗೇ aot: Rgou ಮತ್ತು Aid ಬುಣ್ಣೇಕಗಳು_\nಹಾಗೊ ಕ್ರ Aoddy dot ಇರುವ Lode 14ಲ್ತಗಳ್ರ\n\nಇರ್‌ ಟಚ್‌ ಪ್ಪ ್ಹ್ಚಾ್‌್‌್‌\n\n>” Coste SONG Arerghded awimdoy ug Add 6 ಬಗ್ಗೆ agd\nಸಾಂಯಿಲಯನೈ ಮತ duagd Sch ಎಜಯದ toh 4ರ ಶಕ್ಷಣಸರು al 46\n— ad, ಕಡು ಪಂಳಲ್ಲ,\n\n~ ಕಾ ರಾ\n@ sat / oe Pea ೫ ಇನ್ನ Sik ಪಸರಾಜ dd ಉದದ.\n\n೨ಡಿ ಜಂಉಲ್ಲ\n\n— ಇಂ ರ್‌್ಸ್ಜ್ಜ್ಕ್ಸ್ರ್ಮಾ ಚೌ\n—D.. awh ಆಸೇಸ್ಯ AD ಎಂಡು pwd ಮಡುತತ.\n\nಧು AR momnndn ಸಂಚು wee ty ans dousy\nಧು. ಓನ ಸಬ್ಬಜಿ. caydted way oF ಮೇಡುವೇಡೆದ್ದ:\nಈ Groth veaedandeds crushing ot dy ಆಯತ Sadngiy slong\n\nBoros aeens 33\n> Sqr Ye ಸರ ಶಮುಸಿ ದುಷ್ಪ\n\n: ಸೇ ಪ್ರಕರ್ಗುಜಲ್ಲ ಯಿದೆ. ಡು. pauoradilay foetdind\n| gm ವ್ರಯಾಲಯನೇ ಆಯ್ಯನಿಸತತ್ಮಕ್ಕು ವೀರ ಸಯಲ ಅರ್ಯ aad\n> aie “A ಎತ್ತೀತ್ರಚಿತ ರಬ ೫ ಪ\n\n- ಳೆ 4ಡಿಯಲ್ಲ Samend eevobf 614 60) ಸರ್ಗ ಫೆ\n6 app 40% BORDA ಗಂತೆಕಿ ಕ್ರಾಹುಡ್ರಿಕಿ 328 Laoty, Sef Agar\nಎ0ಸರುಬಗೆಕೆ. ಇರ) BYAI - ಆಗ ಬ್ಯತೀಸರ: ALD Achwod (ರತ Kad\n- ಸಂಯೇಳ! 00, ಓದು watesd dood ಉಪಯತ್ತಕೆ. (ಛಿಕ್ಕ dyads amtow Agoda\n€ದೈಯಾತಾತ್ತನೆ ಅತು. duced ಕರತ ಲೆ. ಧಸ್ಮಿಯೂಾರಯಳಲ್ನು ಎಂಡು Shook ಆಪಃ ತೆ.\n\nರ ಲ ೋ  ೋ  ೆ ಲ macredate\n@ ಓಕೆ! ೦೮೬ ಪಿಡಿಗುಳಿಗಳರಬೆಕು. 6) 6 ಎಕ. arte Cork aigents ಸಮಂತ\n\n2 ‘to ಎಸರು. SAI Conch ಊಟಿಯ 6644 ಯೊಳಗ ಬೆ.\n©\n\nಕೂಡಿದೆ. ಐವೆಯನ್ಕು. Ras moleood ಹುಸಿ ಮಿಮಿ Up AAT,\nAgeoot Honk Amo ಸಕ್ಸಷಿದ್ಳಗಿಕಿಟೆಟ್‌-",
+    "corrected_text": "( ಲೀ ್ಪದ 65೬೧! 2 Magarun\n\n೦3\nತುವ ಸಿ7೬ಯ ಗೇ aot: Rgou ಮತ್ತು Aid ಬುಣ್ಣೇಕಗಳು_\nಹಾಗೊ ಕ್ರ Aoddy dot ಇರುವ Lode 14ಲ್ತಗಳ್ರ\n\nಇರ್‌ ಟಚ್‌ ಪ್ಪ ್ಹ್ಚಾ್‌್‌್‌\n\n>” Coste SONG Arerghded awimdoy ug Add 6 ಬಗ್ಗೆ agd\nಸಾಂಯಿಲಯನೈ ಮತ duagd Sch ಎಜಯದ toh 4ರ ಶಕ್ಷಣಸರು al 46\n— ad, ಕಡು ಪಂಳಲ್ಲ,\n\n~ ಕಾ ರಾ\n@ sat / oe Pea ೫ ಇನ್ನ Sik ಪಸರಾಜ dd ಉದದ.\n\n೨ಡಿ ಜಂಉಲ್ಲ\n\n— ಇಂ ರ್‌್ಸ್ಜ್ಜ್ಕ್ಸ್ರ್ಮಾ ಚೌ\n—D.. awh ಆಸೇಸ್ಯ AD ಎಂಡು pwd ಮಡುತತ.\n\nಧು AR momnndn ಸಂಚು wee ty ans dousy\nಧು. ಓನ ಸಬ್ಬಜಿ. caydted way oF ಮೇಡುವೇಡೆದ್ದ:\nಈ Groth veaedandeds crushing ot dy ಆಯತ Sadngiy slong\n\nBoros aeens 33\n> Sqr Ye ಸರ ಶಮುಸಿ ದುಷ್ಪ\n\n: ಸೇ ಪ್ರಕರ್ಗುಜಲ್ಲ ಯಿದೆ. ಡು. pauoradilay foetdind\n| gm ವ್ರಯಾಲಯನೇ ಆಯ್ಯನಿಸತತ್ಮಕ್ಕು ವೀರ ಸಯಲ ಅರ್ಯ aad\n> aie \"A ಎತ್ತೀತ್ರಚಿತ ರಬ ೫ ಪ\n\n- ಳೆ 4ಡಿಯಲ್ಲ Samend eevobf 614 60) ಸರ್ಗ ಫೆ\n6 app 40% BORDA ಗಂತೆಕಿ ಕ್ರಾಹುಡ್ರಿಕಿ 328 Laoty, Sef Agar\nಎ0ಸರುಬಗೆಕೆ. ಇರ) BYAI - ಆಗ ಬ್ಯತೀಸರ: ALD Achwod (ರತ Kad\n- ಸಂಯೇಳ! 00, ಓದು watesd dood ಉಪಯತ್ತಕೆ. (ಛಿಕ್ಕ dyads amtow Agoda\n€ದೈಯಾತಾತ್ತನೆ ಅತು. duced ಕರತ ಲೆ. ಧಸ್ಮಿಯೂಾರಯಳಲ್ನು ಎಂಡು Shook ಆಪಃ ತೆ.\n\nರ ಲ ೋ  ೋ  ೆ ಲ macredate\n@ ಓಕೆ! ೦೮೬ ಪಿಡಿಗುಳಿಗಳರಬೆಕು. 6) 6 ಎಕ. arte Cork aigents ಸಮಂತ\n\n2 'to ಎಸರು. SAI Conch ಊಟಿಯ 6644 ಯೊಳಗ ಬೆ.\n©\n\nಕೂಡಿದೆ. ಐವೆಯನ್ಕು. Ras moleood ಹುಸಿ ಮಿಮಿ Up AAT,\nAgeoot Honk Amo ಸಕ್ಸಷಿದ್ಳಗಿಕಿಟೆಟ್‌-",
+    "translated_text": "( Lee 6561! 2 Magarun\n\n03\nYou are the one who is aot: Rgou and Aid's enemies.\nSuch a kind of Aoddy dot existing Lode 14 letters.\n\nThere touch pph hchach\n\n> Coste SONG Arerghded awimdoy ug Add 6 about agd\nSanyilnayi mat duagd Sch eyad toh 4r shaksharalu al 46\n— ad, kadu panllalla,\n\n~ ka ra\n@ sat / oe Pea 5 inn Sik pasaraaj dd udad.\n\n2Di jamull\n\n— in rrsjksrm cha\n—D.. awh asasy AD endu pwd madutt.\n\nthu AR momnndn sanchu wee ty ans dousy\nthu. On sabbi. caydted way oF medavedded:\nee Groth veaedandeds crushing ot dy ayat Sadngiy slong\n\nBoros aeens 33\n> Sqr Ye sar shumi dushp\n\n: se prakargull yide. Du. pauoradilay foetind\n| gm vrayalayaney ayyanistamaku veera sayal arya aad\n> aie \"A ettirachita rab 5 p\n\n- le 4dilla Samend eevobf 614 60) sar ga fe\n6 app 40% BORDA ganteki krahudriki 328 Laoty, Sef Agar\ne0sarubageke. ir) BYAI - ag batiisara: ALD Achwod (rat Kad\n- sanyela! 00, du watesd dood upayattake. (chikka dyads amtow Agoda\nedaiyataanne atu. duced karat le. dhsmiyuaralannu endu Shook ap te.\n\nra l k k macredate\n@ oka! 086 pidigullarabeku. 6) 6 ek. arte Cork aigents samanta\n\n2 'to saru. SAI Conch utiya 6644 yola be.\n©\n\nkudide. aivayanku. Ras moleood husi mimmi Up AAT,\nAgeoot Honk Amo sakshidlikite-",
+    "notes": [],
+    "seconds": 29.6
+  },
+  {
+    "photo": "handwritten_notes.jpg",
+    "preprocess": false,
+    "confidence": 0.338,
+    "elapsed_ms": 17889,
+    "detected": [
+      [
+        "eng",
+        0.6187
+      ],
+      [
+        "kan",
+        0.3813
+      ]
+    ],
+    "raw_text": "a Spe\n\nತು\n\nಷರ ee ಈಗಲ್ಲ Perri\n\nಇ ಾರ್ಮಚ್ಮಹ್ಮಾ್‌\n\nಹಕಾರ\n\nಇಂ ಯಗ ಬರ ofa pas ak Ea\naries\n\nಇರೂ ಜಯ aid da og\n\n= cation.\nಎ ee ೯4.\n\nಹ ಗರಗ ಗಡ\nಎಕೋ ಬಳಿಯ -\ni Age qotunsis Gd atc mus\nPi ರ್‌ೂ\nಗ patina Sond ay ee\n\nಸರಾಸಾ\n[asprin Ye ett tute cg ಚಾ\nAe 00 ಯತ: Got 322651 Goto\nಹಟ oad\n\nSti ೨2೬೫ 20ಎ 0 ಯಂಗೆ okay ed\nGms ಆತ ತಂತ ಯೂ ಗ ಹ\nಎಕ. ಇ YAS GA ಕಭಿ ALS ಗವ.\nತಂಡ. ಜಗು. ನಿರಮಿೆ. ಓಂತಡ-45. ರಕ states ಹಂಚ.\nಕಾಕು. ಇತು. dass mat shang Sab ಸಮಯ ಊತ an\nಜಾರ್‌ aise ate Fae? ta oh deve\n@ too ೨೭ sameteetrhs Dt oth ಉಟ: Gh ವ ni\nois ಎ1, ಪರಸ: Gack outed band ate ಭಟ.\n\nಸೂಡಿ moka} has ausosd ಹುಸಿ Sad whe ೩43,\n© abot ಯ ==",
+    "corrected_text": "a Spe\n\nತು\n\nಷರ ee ಈಗಲ್ಲ Perri\n\nಇ ಾರ್ಮಚ್ಮಹ್ಮಾ್‌\n\nಹಕಾರ\n\nಇಂ ಯಗ ಬರ ofa pas ak Ea\naries\n\nಇರೂ ಜಯ aid da og\n\n= cation.\nಎ ee ೯4.\n\nಹ ಗರಗ ಗಡ\nಎಕೋ ಬಳಿಯ -\ni Age qotunsis Gd atc mus\nPi ರ್‌ೂ\nಗ patina Sond ay ee\n\nಸರಾಸಾ\n[asprin Ye ett tute cg ಚಾ\nAe 00 ಯತ: Got 322651 Goto\nಹಟ oad\n\nSti ೨2೬೫ 20ಎ 0 ಯಂಗೆ okay ed\nGms ಆತ ತಂತ ಯೂ ಗ ಹ\nಎಕ. ಇ YAS GA ಕಭಿ ALS ಗವ.\nತಂಡ. ಜಗು. ನಿರಮಿೆ. ಓಂತಡ-45. ರಕ states ಹಂಚ.\nಕಾಕು. ಇತು. dass mat shang Sab ಸಮಯ ಊತ an\nಜಾರ್‌ aise ate Fae? ta oh deve\n@ too ೨7 sameteetrhs Dt oth ಉಟ: Gh ವ ni\nois ಎ1, ಪರಸ: Gack outed band ate ಭಟ.\n\nಸೂಡಿ moka} has ausosd ಹುಸಿ Sad whe ೩43,\n© abot ಯ ==",
+    "translated_text": "a Spe\n\nತು\n\nಷರ ee ಈಗಲ್ಲ Perri\n\nಇ ಾರ್ಮಚ್ಮಹ್ಮಾ್‌\n\nಹಕಾರ\n\nಇಂ ಯಗ ಬರ ofa pas ak Ea\naries\n\nಇರೂ ಜಯ aid da og\n\n= cation.\nಎ ee ೯4.\n\nಹ ಗರಗ ಗಡ\nಎಕೋ ಬಳಿಯ -\ni Age qotunsis Gd atc mus\nPi ರ್‌ೂ\nಗ patina Sond ay ee\n\nಸರಾಸಾ\n[asprin Ye ett tute cg ಚಾ\nAe 00 ಯತ: Got 322651 Goto\nಹಟ oad\n\nSti ೨2೬5 20ಎ 0 ಯಂಗೆ okay ed\nGms ಆತ ತಂತ ಯೂ ಗ ಹ\nಎಕ. ಇ YAS GA ಕಭಿ ALS ಗವ.\nತಂಡ. ಜಗು. ನಿರಮಿೆ. ಓಂತಡ-45. ರಕ states ಹಂಚ.\nಕಾಕು. ಇತು. dass mat shang Sab ಸಮಯ ಊತ an\nಜಾರ್‌ aise ate Fae? ta oh deve\n@ too ೨7 sameteetrhs Dt oth ಉಟ: Gh ವ ni\nois ಎ1, ಪರಸ: Gack outed band ate ಭಟ.\n\nಸೂಡಿ moka} has ausosd ಹುಸಿ Sad whe ೩43,\n© abot ಯ ==",
+    "notes": [],
+    "seconds": 17.9
+  },
+  {
+    "photo": "printed_page.jpg",
+    "preprocess": true,
+    "confidence": 0.4466,
+    "elapsed_ms": 24282,
+    "detected": [
+      [
+        "kan",
+        0.8557
+      ],
+      [
+        "eng",
+        0.1443
+      ]
+    ],
+    "raw_text": "ey OQ\n\nಎರದರ ಪೂರ್ಣರೇಶವು Wet S ದಾಗ, ಪ್ರದ, ಈ ತೆರನಾಗ\nಜೇಕಾದರೆ, ಆ ಆ ಸ್ಮಳಿಕರು ಕಾನ eae ದೇಶ WR,\n೯ MURA woes. ವಿಶಾಖ ಕರ್ನಾಟಕದ cons b,end ee\n\nಸಮ್ಮ ಕಾಯದದ್ತ ಎಷ್ಟರ ಮಟ್ಟಿಗೆ ಹೈೆಶಕ್ತಿ ಡೂ! ಇದನ್ನು\nಆಖಿಸಿಕರ್ನಾಟಿಕದ aay ದಯೆ dave\n\n4 ನಮ್ಮೀ ಶಾರ್ಯ ಪ, ವ ವೃಕ್ಷಕೆಯ ಆದೆಷ್ಟೋ ಹ ಸಗಳಹಿಂದೆಯ\n\nದಾಗ, ವುದಿದ್ದು, ಹಾಯ ಕೂಸ್ಯತೆಯುಂದೆ. ಹಾಗಿಯೇ\n\nrT ಕಾಳಿದಿತ್ತು, ಸವತಿಯ, ಗ್ರಂಥಪ್ರಉತಗದ 5. Re, ನಾಟಕವನ್ನು\n\n|\n\n3\n\nಸರಿಸಿದಾಗ oo ROB, be. ಸ್ನೊಡಗಿಸಿದ ಮಹನೀಯ\n\nಗೆಲ,ವಂದವೆಗಳನ್ನೊನ್ಪಿ eS ಜೊತೆಗೆ ಕ್ಷ ದ\nಹಾಚಿಸುವಿವು. 5, ree ಈ ಭ್ರಸ್ತಕವು ನಮ್ಮ caged\nತ್ಯೇರೆಗೆ ಬಕಿದ್ದ 25 can ಅದೆಜೋ ದಿನಗಳಷಿದರೂ ಪ್ರಕ\nಶಯ ಸಾಷಕಾಶವಾರದಳ್ಕಾಗಿ ವಿಜಾದಿಸಭೇ ಕೂಗಿದೆ. ನಮ್ಮ\nಮೇಲಿನ CHOATE BIOS ಸಂಗೆಪ್ಟ ಅಣ್ಣಾ\n\nಮುದಗಲ್‌ ಶ್ರೀ ಡಾ ವಾಟಿಕಾಲಲಕಾನ ಸದಾನಿವರಾವ\nRiad ಹಾಗೂ ಶ್ರೀಮಂತ್‌ ಪ್ರೆಲಾದರಾವ ದೇಸಾಯಿ\n\nಮೇಣೆಣಪಾಲ, ಸ್ನೇಹಂ ನೆಂಕೋಬಾಚಾರ್ಯ DRG\nಹಳ್ಳಿ ಹಾಗೂ spar ae. Worn’ ಬಿಂದೂರಾವ sar.\nMy ಪರೋಕ್ಷವಾದ ಸಹಾಯವು AYO? ಪಟನಾ\n\nnergy ಪ್ರಕಜೆಗೊಳ್ಳು boy. SOG ಅವರಿಲ್ಲಿ ಕೀರ್ತ\nನೀರು ಹೋಗ್ಯರು, ನಮ್ಮ ಅಡಡಣೆ ಇಪತ್ತಿಗೆಳನ್ನು ನೋಡಿ cot\nಬ.ಂದೆ ನೆರವಾಗಿ She ದಿನಗಳಲ್ಲಿ. ಅಂದವಾದ ಮುದ್ರಣ\nಮಾಡಿಕೊಟ್ಟ ಮೋಹನೆ ಮ.ದೃಹಾಲಯದ ಒಡೆಯರಾದ ಶಯ ಕ\nರಾಯದುರ್ಗ ಕೃಷ್ಣರಾಯರನ್ನು zy ಸೆನೆಯದಿಲಾಕೆವು,\n\nಸ್ರ ಶ್ರಿನಮರ |\n\nಪ್ರಕಾಶಕರು",
+    "corrected_text": "ಎರಡರ ಪೂರ್ಣರೇಶವು Wet S ದಾಗ, ಪ್ರದ, ಈ ತೆರನಾಗ\nಜೇಕಾದರೆ, ಆ ಆ ಸ್ಮಳಿಕರು ಕಾನ eae ದೇಶ WR,\n೯ MURA woes. ವಿಶಾಖ ಕರ್ನಾಟಕದ cons b,end ee\n\nಸಮ್ಮ ಕಾಯದದ್ತ ಎಷ್ಟರ ಮಟ್ಟಿಗೆ ಹೈೆಶಕ್ತಿ ಡೂ! ಇದನ್ನು\nಆಖಿಸಿಕರ್ನಾಟಿಕದ aay ದಯೆ dave\n\n4 ನಮ್ಮೀ ಶಾರ್ಯ ಪ, ವ ವೃಕ್ಷಕೆಯ ಆದೆಷ್ಟೋ ಹ ಸಗಳಹಿಂದೆಯ\n\nದಾಗ, ವುದಿದ್ದು, ಹಾಯ ಕೂಸ್ಯತೆಯುಂದೆ. ಹಾಗಿಯೇ\n\nrT ಕಾಳಿದಿತ್ತು, ಸವತಿಯ, ಗ್ರಂಥಪ್ರಉತಗದ 5. Re, ನಾಟಕವನ್ನು\n\n|\n\n3\n\nಸರಿಸಿದಾಗ oo ROB, be. ಸ್ನೊಡಗಿಸಿದ ಮಹನೀಯ\n\nಗೆಲ,ವಂದವೆಗಳನ್ನೊನ್ಪಿ eS ಜೊತೆಗೆ ಕ್ಷ ದ\nಹಾಚಿಸುವಿವು. 5, ree ಈ ಭ್ರಸ್ತಕವು ನಮ್ಮ caged\nತ್ಯೇರೆಗೆ ಬಕಿದ್ದ 25 can ಅದೆಜೋ ದಿನಗಳಷಿದರೂ ಪ್ರಕ\nಶಯ ಸಾಷಕಾಶವಾರದಳ್ಕಾಗಿ ವಿಜಾದಿಸಭೇ ಕೂಗಿದೆ. ನಮ್ಮ\nಮೇಲಿನ CHOATE BIOS ಸಂಗೆಪ್ಟ ಅಣ್ಣಾ\n\nಮುದಗಲ್‌ ಶ್ರೀ ಡಾ ವಾಟಿಕಾಲಲಕಾನ ಸದಾನಿವರಾವ\nRiad ಹಾಗೂ ಶ್ರೀಮಂತ್‌ ಪ್ರೆಲಾದರಾವ ದೇಸಾಯಿ\n\nಮೇಣೆಣಪಾಲ, ಸ್ನೇಹಂ ನೆಂಕೋಬಾಚಾರ್ಯ DRG\nಹಳ್ಳಿ ಹಾಗೂ spar ae. Worn' ಬಿಂದೂರಾವ sar.\nMy ಪರೋಕ್ಷವಾದ ಸಹಾಯವು AYO? ಪಟನಾ\n\nnergy ಪ್ರಕಜೆಗೊಳ್ಳು boy. SOG ಅವರಿಲ್ಲಿ ಕೀರ್ತ\nನೀರು ಹೋಗ್ಯರು, ನಮ್ಮ ಅಡಡಣೆ ಇಪತ್ತಿಗೆಳನ್ನು ನೋಡಿ cot\nಬ.ಂದೆ ನೆರವಾಗಿ She ದಿನಗಳಲ್ಲಿ. ಅಂದವಾದ ಮುದ್ರಣ\nಮಾಡಿಕೊಟ್ಟ ಮೋಹನೆ ಮ.ದೃಹಾಲಯದ ಒಡೆಯರಾದ ಶಯ ಕ\nರಾಯದುರ್ಗ ಕೃಷ್ಣರಾಯರನ್ನು zy ಸೆನೆಯದಿಲಾಕೆವು,\n\nಸ್ರ ಶ್ರಿನಮರ |\n\nಪ್ರಕಾಶಕರು",
+    "translated_text": "When the full moon is wet with dew, the sky appears like this. If so, those memories belong to the country of WR. MURA woes. Visakh in Karnataka's cons b,end ee.\n\nHow much high-energy does it take to make a Kannada aay dave? Our Shary p, v vrkskay ade shato h sagalhinday. When it was there, hay kuyatyundey. So it was.\n\nRt kaalidittu, savatiy, granthprutagad 5. Re, natkavannu sarisida oo ROB, be. Snodgisi mahany gelayandvengannop eS jote ga ksh dahachivivu. 5, ree ee bhristavu nmy caged tyarege bakidda 25 can adejo dinashidar praka shaya saakashaaradallagi vijadsabhe kooge. Namy meelay CHOATE BIOS sangapt anna mudgal shr dya watikallakan sadanivarava Riad haagu shrimant preladarava desayi.\n\nMenenapala, sneha nenkoobaray DRG hali haagu spar ae. Worn' bindura sar. My parokshavada sahaya AYO? Patana energy prakajegollu boy. SOG avari kirt neeru hogyaru, nmy adane ipattigellenu nodi cot b.ande neravi She dinallai. Andavad mudrana madikotta mohane m.dralayad odayarada shy k rayadurga krishnarannu zy seneydalakevu,\n\nShr shinamar |\n\nPrakashkaru",
+    "notes": [],
+    "seconds": 24.3
+  },
+  {
+    "photo": "printed_page.jpg",
+    "preprocess": false,
+    "confidence": 0.3786,
+    "elapsed_ms": 25247,
+    "detected": [
+      [
+        "kan",
+        0.802
+      ],
+      [
+        "eng",
+        0.198
+      ]
+    ],
+    "raw_text": "SAS ಇಹ .\nBata ered eis dowidd, ರನ್ನ.\nತ್ಕ, ೨ ೨ ಸತರ ಕಾಮ ಹಂಗರ ಪದದ,\n\nತುಸು ಗಾಗಾ ಸ ಯಾ\nಸ ಕಾವ್ಯ ಎರ ಮಟ್ಟಿಗೆ ಮತ್ತಾ!\n| ಬ ಬಂ ಟಾ '\nಇ ನಮ್ಮೀ sexe ಪ್ರವೃತ್ತಿಯು edn Serenade\n4 ,| [ ಸ್ರತಟವಾಗುವುದಿದ್ದು,  ಸಹಾಯಶೂಸ್ಯತೆಯಂದೆ ಹಾಗೆಯ.\nsath, ಸಿತಿ ಸ್ಪಂತಮ್ರಕಾತರತ ಸ್ವಷ್ಟ wes,\n|S strestg eo ಸಂತು ಒಡು ಕಡಗ 4 ಸದನ\n\nfg somites age ಜತಗ ಕರೆಯನ್ನ\namine, al ಈ ಪ್ರಶ್ನ ನಮ್ಮ ಪ್ರಾರ್ಥನ 10೩\nಮೇಕೆಗೆ nts. Aqua ಅದೆತ್ತೋ 'ವಿನಗಳಾದರೂ ಪ್ರಕ\nನಿಯ ಸಾಡಳಾಶವಾಡದಳಾಗಿ ಜಾಡಿನ ಗಿದೆ. ಸಮ್ಮ.\nಮೇಲಿನ: ಆಭಿಮೊಸವಳ್ಳ Je ತರುಗಳಾದ ಸಂಗಪ್ಪ ಅಣ್ಣಾ\nSint ಶ್ರೀಮಾನ್‌. ಸಾಟಿಕಾಲಂ ಉರ: ಸದಾಶಿವರಾವ'\nಗರೂಡ ಹಾಗೂ ಶ್ರೀಮತ್‌ ಪ್ರಲ್ಲಾಷರಾವ ಜೇಸಾಯಿ,\nಮೇಣೆಔ೫೫೪, . ಸ್ನೀಡಒಂಧು ವೆಂಕಟಾಚಾರ್ಯ ಬಸರ\nಳ್ಳಿ ಹಾಗೂ ಶ್ರೀಮಾನ್‌ ಡಾ. Ueno ಬಿಂದೂರಾವ ಸಿರು\nBis ಅಪರೋತ್ಸ ವಾದ ಸಹಾಯವು. costae cuties\nಕ್ರ ಕಾರ್ಯವು ಪ್ರಕಟೆಗೊಳ್ಳು ಶ್ರರಲ್ಲಲ್ಲ. ಅದುದರಿಂದ ಬದ್ಲಿ ಕೀರ\nಟ್‌ 'ಯೋಗ್ಯತು. ನಮ್ಮ ಅಡಡಗೆ vets, ನೋಡಿ cots 1\nಕ. setae ಸ್ಟ ಿಸಗಳನ್ನಿ.. ದನಾ chee\nAY ಸೂಡಿಕೊಟ್ಟಿಮೋಹನೆ ಮುದ್ರಣಾಲಯದ ಒಜೆಯರಾಧ dale\nರಾಯದುರ್ಗ ಕೃಷ್ಣರಾಯರನ್ನು ಇ್ಲಿ ತನೆಯವಿಲಾತಿ್ರ, .\ndean’\noe load ae | ಪ್ರಕಾಶಕರು.\nSS ಜಗ್ಗ\n\nಗ",
+    "corrected_text": "SAS ಇಹ.\nಬತ್ತೆ ಎರಡು ಎಸಿ ದೊಡ್ಡ, ರನ್ನ.\nತ್ಕ, ೨ ೨ ಸತರ ಕಾಮ ಹಂಗರ ಪದದ,\n\nತುಸು ಗಾಗಾ ಸ ಯಾ\nಸ ಕಾವ್ಯ ಎರ ಮಟ್ಟಿಗೆ ಮತ್ತಾ!\n| ಬ ಬಂ ಟಾ '\nಇ ನಮ್ಮೀ sex ಪ್ರವೃತ್ತಿಯು edn Serenade\n4 ,| [ ಸ್ರತಟವಾಗುವುದಿದ್ದು, ಸಹಾಯಶೂಸ್ಯತೆಯಂದೆ ಹಾಗೆಯ.\nsath, ಸಿತಿ ಸ್ಪಂತಮ್ರಕಾತರತ ಸ್ವಷ್ಟ wes,\n|S strestg eo ಸಂತು ಒಡು ಕಡಗ 4 ಸದನ\n\nfg somites age ಜತಗ ಕರೆಯನ್ನ\namine, al ಈ ಪ್ರಶ್ನ ನಮ್ಮ ಪ್ರಾರ್ಥನ 10೩\nಮೇಕೆಗೆ nts. Aqua ಅದೆತ್ತೋ 'ವಿನಗಳಾದರೂ ಪ್ರಕ\nನಿಯ ಸಾಡಳಾಶವಾಡದಳಾಗಿ ಜಾಡಿನ ಗಿದೆ. ಸಮ್ಮ.\nಮೇಲಿನ: ಆಭಿಮೊಸವಳ್ಳ Je ತರುಗಳಾದ ಸಂಗಪ್ಪ ಅಣ್ಣಾ\nSint ಶ್ರೀಮಾನ್‌. ಸಾಟಿಕಾಲಂ ಉರ: ಸದಾಶಿವರಾವ'\nಗರೂಡ ಹಾಗೂ ಶ್ರೀಮತ್‌ ಪ್ರಲ್ಲಾಷರಾವ ಜೇಸಾಯಿ,\nಮೇಣೆಔ೫೫೪, . ಸ್ನೀಡಒಂಧು ವೆಂಕಟಾಚಾರ್ಯ ಬಸರ\nಳ್ಳಿ ಹಾಗೂ ಶ್ರೀಮಾನ್‌ ಡಾ. Ueno ಬಿಂದೂರಾವ ಸಿರು\nBis ಅಪರೋತ್ಸ ವಾದ ಸಹಾಯವು. costae cuties\nಕ್ರ ಕಾರ್ಯವು ಪ್ರಕಟೆಗೊಳ್ಳು ಶ್ರರಲ್ಲಲ್ಲ. ಅದುದರಿಂದ ಬದ್ಲಿ ಕೀರ\nಟ್‌ 'ಯೋಗ್ಯತು. ನಮ್ಮ ಅಡಡಗೆ vets, ನೋಡಿ cots 1\nಕ. setae ಸ್ಟ ಿಸಗಳನ್ನಿ.. ದನಾ chee\nAY ಸೂಡಿಕೊಟ್ಟಿಮೋಹನೆ ಮುದ್ರಣಾಲಯದ ಒಜೆಯರಾಧ dale\nರಾಯದುರ್ಗ ಕೃಷ್ಣರಾಯರನ್ನು ಇ್ಲಿ ತನೆಯವಿಲಾತಿ್ರ, .\ndean'\noe load ae | ಪ್ರಕಾಶಕರು.\nSS ಜಗ್ಗ\n\nಗ",
+    "translated_text": "SAS Ih.\nThe cat is two AC big, run.\nTk, 2 2 satar kam hangar padad,\n\nTusu gaga sa ya\nSa kavya er mattige matta!\n| Ba baṇ ta '\nI nmmī sex pravrittīyu edn Serenade\n4 ,| [ Sratavāguvudidu, sahāyashūsyatēndē hāgay.\nsath, siti spantamrakatarata svast wes,\n|S strestg eo santu ḍu kaga 4 sadan\n\nfg somites age jataga karēnyann\namine, al ē praśna namma prārthana 103\nmēkage nts. Aqua adēto 'vinagādarū prak\nniya sāḍaśāvādadaḷaḍi jāḍina gide. samm.\nmēlain: ābhimosavalla Je tarugāda sangappa ṇṇā\nSint śrīman. sātikalama ur: sādaśivarāva'\ngarūḍa hāgu śrīmat prallāśarāva jēsayi,\nmēnaeō554, . snīḍōndhu venkatācarya basara\nḷli hāgu śrīman ḍa. Ueno bīndūrava siru\nBis aprōts vāda sahāyavu. costae cuties\nkra kāryavu prakateḷḷi śrarallalla. adudari badli kēra\nṭ 'yogyatu. namma ḍaḍage vets, nōḍi cots 1\nk. setae st ṛsāgannī.. danā chee\n\nAY sūdikottimōhane mudrānālaya dōjēyarāda dale\nrāyadurga kṛṣṇarāyaruḷli lī taneyavilātir, .\ndean'\noe load ae | prakāśakaru.\nSS jagga\n\ng",
+    "notes": [],
+    "seconds": 25.2
+  }
+]

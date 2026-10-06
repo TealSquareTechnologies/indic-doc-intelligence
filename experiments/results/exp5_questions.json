@@ -1,0 +1,636 @@
+{
+  "in_corpus": [
+    {
+      "index": 115,
+      "sentence": "The company hopes to diversify its profit sources and gain popularity in areas where Skype holds a strong position, such as China, Eastern Europe, and Brazil.",
+      "question": "Where does Skype hold a strong position?",
+      "answer": "China, Eastern Europe, and Brazil",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 221,
+      "sentence": "The trial took place at Birmingham Crown Court and concluded on August 3.",
+      "question": "When did the trial conclude?",
+      "answer": "August 3",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 143,
+      "sentence": "\"Based on this fossil, that means the split is much earlier than has been anticipated by the molecular evidence.",
+      "question": "What does the fossil imply about the timing of the split compared to molecular evidence?",
+      "answer": "much earlier",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 219,
+      "sentence": "2004 Olympic silver medallist Amir Khan said, \"Deep down I think women shouldn’t fight. That’s my opinion.\"",
+      "question": "What is Amir Khan's opinion on women fighting?",
+      "answer": "Women shouldn't fight",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 199,
+      "sentence": "I expect to return to all my duties on Monday,\" Arias said in a statement.",
+      "question": "When does Arias expect to return to his duties?",
+      "answer": "Monday",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 119,
+      "sentence": "The game is based on the Second Battle of Fallujah, a vicious battle between American and Iraqi forces.",
+      "question": "What battle is the game based on?",
+      "answer": "The Second Battle of Fallujah",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 239,
+      "sentence": "The issue started on January 1st when dozens of local residents started complaining to the Obanazawa Post Office that they hadn't received their traditional and regular New Year cards.",
+      "question": "When did the issue start?",
+      "answer": "January 1st",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 130,
+      "sentence": "Today's announcement also extended the government's commitment made in March of this year to fund extra carriages.",
+      "question": "What did the announcement extend?",
+      "answer": "the government's commitment",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 218,
+      "sentence": "Not all were supportive of the inclusion of the women’s ranks.",
+      "question": "Were all people supportive of including women?",
+      "answer": "Not all",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 150,
+      "sentence": "Sir Richard Branson's Virgin Group had a bid for the bank rejected prior to the bank’s nationalisation.",
+      "question": "What happened to Sir Richard Branson's Virgin Group's bid for the bank?",
+      "answer": "had a bid for the bank rejected",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 48,
+      "sentence": "Mr Reid managed to drive the New Zealand's A1GP car, Black Beauty at speeds over 160km/h seven times over the bridge.",
+      "question": "How many times did Mr Reid drive the car over the bridge?",
+      "answer": "seven times",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 47,
+      "sentence": "Jonny Reid, co-driver for the A1GP New Zealand team, today made history by driving the fastest over the 48-year-old Auckland Harbour Bridge, New Zealand, legally.",
+      "question": "What did Jonny Reid do?",
+      "answer": "driving the fastest",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 205,
+      "sentence": "About ten minutes before it was due to land from its second approach it disapeared.",
+      "question": "What happened about ten minutes before it was due to land from its second approach?",
+      "answer": "it disappeared",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 131,
+      "sentence": "An additional 300 brings the total to 1,300 carriages to be acquired to relieve overcrowding.",
+      "question": "How many more carriages are being acquired?",
+      "answer": "300",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 121,
+      "sentence": "The Broadcasting Services Act provides for the regulation of Internet content, however to be considered Internet content, it must physically reside on a server.",
+      "question": "What must Internet content physically reside on?",
+      "answer": "a server",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 161,
+      "sentence": "The US Navy also said they were investigating the incident.",
+      "question": "What was the US Navy doing regarding the incident?",
+      "answer": "investigating the incident",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 157,
+      "sentence": "Following the race, Keselowski remains the Drivers' Championship leader with 2,250 points.",
+      "question": "Who remains the Drivers' Championship leader?",
+      "answer": "Keselowski",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 203,
+      "sentence": "Some of the rainfall was accompanied by thunderstorms and frequent lightning.",
+      "question": "What accompanied some of the rainfall?",
+      "answer": "thunderstorms and frequent lightning",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 228,
+      "sentence": "These scarps were found all over the moon and appear to be minimally weathered, indicating that the geologic events that created them were fairly recent.",
+      "question": "How recently were the geologic events that created these scarps?",
+      "answer": "fairly recent",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 24,
+      "sentence": "He had 2 goals and 2 assists in Washington's 5-3 win over the Atlanta Thrashers.",
+      "question": "How many goals did he have?",
+      "answer": "2",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 114,
+      "sentence": "It is the biggest acquisition in eBay's history.",
+      "question": "What is it?",
+      "answer": "the biggest acquisition in eBay's history",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 77,
+      "sentence": "He also confirmed that he believed in the implied right to privacy which the Roe decision depended upon.",
+      "question": "What did he believe in?",
+      "answer": "the implied right to privacy",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 36,
+      "sentence": "Construction is ongoing for five new skyscrapers at the site, with a transportation center and memorial park in the middle.",
+      "question": "How many new skyscrapers are being built?",
+      "answer": "five",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 23,
+      "sentence": "Today's Player of the Day is Alex Ovechkin of the Washington Capitals.",
+      "question": "Who is today's Player of the Day?",
+      "answer": "Alex Ovechkin",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 137,
+      "sentence": "Fish often die because of the high concentrations of the toxin in the waters.",
+      "question": "Why do fish often die?",
+      "answer": "high concentrations of the toxin",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 207,
+      "sentence": "The search had been hampered by the same bad weather that had caused the aborted landing.",
+      "question": "What hampered the search?",
+      "answer": "bad weather",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 177,
+      "sentence": "At the time of the award, Atlanta schools had seen a large improvement on test scores.",
+      "question": "What happened to Atlanta schools' test scores at the time of the award?",
+      "answer": "a large improvement",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 162,
+      "sentence": "They also said in a statement, \"The crew is currently working to determine the best method of safely extracting the ship\".",
+      "question": "What are they doing?",
+      "answer": "working to determine the best method of safely extracting the ship",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 10,
+      "sentence": "Around 11:29, the protest moved up Whitehall, past Trafalgar Square, along the Strand, passing by Aldwych and up Kingsway towards Holborn where the Conservative Party were holding their Spring Forum in the Grand Connaught Rooms hotel.",
+      "question": "Where did the protest move up?",
+      "answer": "Whitehall",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 152,
+      "sentence": "Virgin have only purchased the ‘good bank’ of Northern Rock, not the asset management company.",
+      "question": "What has Virgin not purchased from Northern Rock?",
+      "answer": "the asset management company",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 101,
+      "sentence": "As of Wednesday afternoon, the tank vents were still leaking probably from thermal expansion inside the tank.",
+      "question": "What was the probable cause of the leak?",
+      "answer": "thermal expansion inside the tank",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 233,
+      "sentence": "Nadia, born on September 17, 2007, by Cesarean section at a maternity clinic in Aleisk, Russia, weighed in at a massive 17 pounds 1 ounce.",
+      "question": "What was Nadia's birth weight?",
+      "answer": "17 pounds 1 ounce",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 167,
+      "sentence": "The attack put a huge strain on relations between India and Pakistan.",
+      "question": "What did the attack put a huge strain on?",
+      "answer": "relations between India and Pakistan",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 189,
+      "sentence": "The typhoon is estimated to be moving toward China at eleven kph.",
+      "question": "What is the speed of the typhoon?",
+      "answer": "eleven kph",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 223,
+      "sentence": "Blake was also convicted of attempting to pervert the course of justice.",
+      "question": "What else was Blake convicted of?",
+      "answer": "attempting to pervert the course of justice",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 166,
+      "sentence": "David Headley's scouting and information gathering had helped to enable the operation by the 10 gunmen from the Pakistani militant group Laskhar-e-Taiba.",
+      "question": "How many gunmen were involved in the operation enabled by David Headley?",
+      "answer": "10",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 40,
+      "sentence": "John Grant, from WNED Buffalo (Reading Rainbow's home station) said \"Reading Rainbow taught kids why to read,... the love of reading — [the show] encouraged kids to pick up a book and to read.\"",
+      "question": "What did Reading Rainbow encourage kids to do?",
+      "answer": "pick up a book and to read",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 159,
+      "sentence": "In third, Hamlin is twenty points behind, but five ahead of Bowyer. Kahne and Truex, Jr. are fifth and sixth respectively with 2,220 and 2,207 points.",
+      "question": "How many points ahead of Bowyer is Hamlin?",
+      "answer": "five",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 3,
+      "sentence": "The pilot was identified as Squadron Leader Dilokrit Pattavee.",
+      "question": "Who was the pilot?",
+      "answer": "Squadron Leader Dilokrit Pattavee",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 135,
+      "sentence": "Natural factors can intersect to produce ideal conditions, allowing this algae to increase in number dramatically.",
+      "question": "What allows the algae to increase in number dramatically?",
+      "answer": "Natural factors can intersect to produce ideal conditions",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 16,
+      "sentence": "The documents showed fourteen banks helped wealthy clients hide billions of US dollars of wealth to avoid taxes and other regulations.",
+      "question": "How many banks helped wealthy clients hide billions of US dollars of wealth?",
+      "answer": "fourteen",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 15,
+      "sentence": "\"Panama Papers\" is an umbrella term for roughly ten million documents from Panamanian law firm Mossack Fonseca, leaked to the press in spring 2016.",
+      "question": "When were the Panama Papers leaked?",
+      "answer": "spring 2016",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 9,
+      "sentence": "At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.",
+      "question": "What time did the police ask protesters to move back?",
+      "answer": "11:20",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 229,
+      "sentence": "This theory contradicts the claim that the moon is completely devoid of geologic activity.",
+      "question": "What does this theory contradict?",
+      "answer": "the claim that the moon is completely devoid of geologic activity",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 61,
+      "sentence": "During his 2 hour speech he stated that \"Today Apple is going to reinvent the phone, We are going to make history today\".",
+      "question": "How long was the speech?",
+      "answer": "2 hour",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 153,
+      "sentence": "This is believed to be the fifth time in history that people have observed what turned out to be chemically confirmed martian material falling to Earth.",
+      "question": "How many times in history has this occurred?",
+      "answer": "fifth",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 7,
+      "sentence": "The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.",
+      "question": "When did the protest start?",
+      "answer": "around 11:00 local time",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 118,
+      "sentence": "The game publisher Konami stated today in a Japanese newspaper that they will not be releasing the game Six Days in Fallujah.",
+      "question": "What did Konami state about the game Six Days in Fallujah?",
+      "answer": "they will not be releasing the game",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 83,
+      "sentence": "Its second claw was larger, giving rise to the name Hesperonychus which means \"western claw.\"",
+      "question": "What does the name Hesperonychus mean?",
+      "answer": "\"western claw\"",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 112,
+      "sentence": "Mr. Rudd's decision to sign the Kyoto climate accord isolates the United States, which will now be the only developed nation not to ratify the agreement.",
+      "question": "What is the consequence of Mr. Rudd's decision?",
+      "answer": "isolates the United States",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 151,
+      "sentence": "In 2010, while nationalised, the current high street bank Northern Rock plc was split from the ‘bad bank’, Northern Rock (Asset Management).",
+      "question": "What year was Northern Rock plc split from its bad bank?",
+      "answer": "2010",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 50,
+      "sentence": "In the last 3 months, over 80 arrestees were released from the Central Booking facility without being formally charged.",
+      "question": "How many arrestees were released from the Central Booking facility in the last 3 months?",
+      "answer": "over 80",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 132,
+      "sentence": "Christopher Garcia, a spokesperson of the Los Angeles Police Department, said the suspected male offender is being investigated for trespassing rather than vandalism.",
+      "question": "What crime is the suspected male offender being investigated for?",
+      "answer": "trespassing",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 59,
+      "sentence": "These bosses had been reined in by Provenzano when he put an end to the Riina-driven war against the state that claimed the lives of Mafia crusaders Giovanni Falcone and Paolo Borsellino in 1992.\"",
+      "question": "Who put an end to the Riina-driven war?",
+      "answer": "Provenzano",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 163,
+      "sentence": "An Avenger class mine countermeasures ship, the ship was on its way to Puerto Princesa in Palawan.",
+      "question": "Where was the ship going?",
+      "answer": "Puerto Princesa",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 75,
+      "sentence": "Roberts flatly refused to say about when he believes life begins, an important question when considering the ethics of abortion, saying that it would be unethical to comment on the specifics of likely cases.",
+      "question": "What did Roberts refuse to say?",
+      "answer": "when he believes life begins",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 127,
+      "sentence": "Many of their writers have gone on to wield great influence on Jon Stewart and Stephen Colbert's news parody shows.",
+      "question": "What is the impact of many of their writers?",
+      "answer": "wield great influence on Jon Stewart and Stephen Colbert's news parody shows",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 1,
+      "sentence": "Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.",
+      "question": "What is one potential benefit mentioned by lead researchers?",
+      "answer": "early detection of cancer",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 169,
+      "sentence": "Perry specifically said, \"There are few places in the world better equipped to meet the challenge that is posed in this case.\"",
+      "question": "What did Perry say about places in the world?",
+      "answer": "few places",
+      "kind": "in_corpus"
+    },
+    {
+      "index": 21,
+      "sentence": "Hsieh also argued that the photogenic Ma was more style than substance.",
+      "question": "What did Hsieh argue about the photogenic Ma?",
+      "answer": "more style than substance",
+      "kind": "in_corpus"
+    }
+  ],
+  "similar_news": [
+    {
+      "index": 468,
+      "sentence": "Up means you should start at the tip and push the bow, and down means you should start at the frog (which is where your hand is holding the bow) and pull the bow.",
+      "question": "What does up mean?",
+      "answer": "start at the tip and push the bow",
+      "kind": "similar_news"
+    },
+    {
+      "index": 670,
+      "sentence": "As a result, the process of an organization working together to overcome an obstacle can lead to a new innovative process to serve the customer's need.",
+      "question": "What can the process of an organization working together to overcome an obstacle lead to?",
+      "answer": "a new innovative process",
+      "kind": "similar_news"
+    },
+    {
+      "index": 284,
+      "sentence": "He was initially hospitalised in the James Paget Hospital in Great Yarmouth.",
+      "question": "Where was he initially hospitalised?",
+      "answer": "the James Paget Hospital in Great Yarmouth",
+      "kind": "similar_news"
+    },
+    {
+      "index": 416,
+      "sentence": "It also had no authority to override tax laws and tariffs between states.",
+      "question": "What could it not do regarding tax laws and tariffs?",
+      "answer": "override",
+      "kind": "similar_news"
+    },
+    {
+      "index": 564,
+      "sentence": "Bipedal specializations are found in Australopithecus fossils from 4.2-3.9 million years ago, although Sahelanthropus may have walked on two legs as early as seven million years ago.",
+      "question": "When were bipedal specializations found in Australopithecus fossils?",
+      "answer": "4.2-3.9 million years ago",
+      "kind": "similar_news"
+    },
+    {
+      "index": 954,
+      "sentence": "Do not deface the site by marking or scratching graffiti into structures.",
+      "question": "What should not be done to structures?",
+      "answer": "marking or scratching graffiti",
+      "kind": "similar_news"
+    },
+    {
+      "index": 860,
+      "sentence": "Similarly, by having a Schengen visa, you do not need to apply for visas to each of the Schengen member countries separately, hence saving time, money and paperwork.",
+      "question": "What does a Schengen visa save?",
+      "answer": "time, money and paperwork",
+      "kind": "similar_news"
+    },
+    {
+      "index": 85,
+      "sentence": "Commons Administrator Adam Cuerden expressed his frustration over the deletions when he spoke to Wikinews last month.",
+      "question": "Who expressed frustration over deletions?",
+      "answer": "Commons Administrator Adam Cuerden",
+      "kind": "similar_news"
+    },
+    {
+      "index": 724,
+      "sentence": "It is one of the main attractions of South Africa and it is considered the flagship of South African National Parks (SANParks).",
+      "question": "What is it considered the flagship of?",
+      "answer": "South African National Parks",
+      "kind": "similar_news"
+    },
+    {
+      "index": 260,
+      "sentence": "I don't know if you realize it or not, but most of the goods from Central America came into this country duty-free.",
+      "question": "How were most goods from Central America treated upon entering the country?",
+      "answer": "duty-free",
+      "kind": "similar_news"
+    },
+    {
+      "index": 322,
+      "sentence": "Out of 1,400 people polled prior to the 2010 federal election, those who oppose Australia becoming a republic grew by 8 per cent since 2008.",
+      "question": "How much did opposition to Australia becoming a republic grow since 2008?",
+      "answer": "8 per cent",
+      "kind": "similar_news"
+    },
+    {
+      "index": 776,
+      "sentence": "Tamaki Drive beaches are on the Waitemata Harbour, in the upmarket suburbs of Mission Bay and St Heliers in Central Auckland.",
+      "question": "Where are Tamaki Drive beaches located?",
+      "answer": "Waitemata Harbour",
+      "kind": "similar_news"
+    },
+    {
+      "index": 235,
+      "sentence": "Lakkha Singh presented the chhappan bhog bhajan as well. Singer, Raju Khandelwal was accompanying him.",
+      "question": "Who accompanied Lakkha Singh?",
+      "answer": "Raju Khandelwal",
+      "kind": "similar_news"
+    },
+    {
+      "index": 525,
+      "sentence": "Twentieth century research has shown that there are two pools of genetic variation: hidden and expressed.",
+      "question": "What are the two pools of genetic variation?",
+      "answer": "hidden and expressed",
+      "kind": "similar_news"
+    },
+    {
+      "index": 295,
+      "sentence": "In a partnership of NPWS and the Sporting Shooters Association of Australia (NSW) Inc, qualified volunteers were recruited, under the Sporting Shooters Association's hunting program.",
+      "question": "Who recruited qualified volunteers?",
+      "answer": "qualified volunteers",
+      "kind": "similar_news"
+    },
+    {
+      "index": 30,
+      "sentence": "Because the dinosaur feathers do not have a well-developed shaft, called a rachis, but do have other features of feathers — barbs and barbules — the researchers inferred the rachis was likely a later evolutionary development that these other features.",
+      "question": "What did researchers infer about the rachis?",
+      "answer": "likely a later evolutionary development",
+      "kind": "similar_news"
+    },
+    {
+      "index": 71,
+      "sentence": "Prime Minister Stephen Harper has agreed to send the government's 'Clean Air Act' to an all-party committee for review, before its second reading, after Tuesday's 25 minute meeting with NDP leader Jack Layton at the PMO.",
+      "question": "What did Prime Minister Stephen Harper agree to do?",
+      "answer": "send the government's 'Clean Air Act' to an all-party committee for review",
+      "kind": "similar_news"
+    },
+    {
+      "index": 576,
+      "sentence": "They have feet with scales and claws, they lay eggs, and they walk on their two back legs like a T-Rex.",
+      "question": "What do they look like?",
+      "answer": "They have feet with scales and claws, they lay eggs, and they walk on their two back legs like a T-Rex.",
+      "kind": "similar_news"
+    },
+    {
+      "index": 784,
+      "sentence": "Still, take advice from authorities, obey all signs, and pay close attention to safety warnings.",
+      "question": "What should people do according to authorities?",
+      "answer": "obey all signs",
+      "kind": "similar_news"
+    },
+    {
+      "index": 110,
+      "sentence": "There, they found the body of Saroja Balasubramanian, 53, covered with blood-stained blankets.",
+      "question": "Who was found covered with blood-stained blankets?",
+      "answer": "Saroja Balasubramanian",
+      "kind": "similar_news"
+    },
+    {
+      "index": 410,
+      "sentence": "A civilization is a singular culture shared by a significant large group of people who live and work co-operatively, a society.",
+      "question": "What is a civilization?",
+      "answer": "a society",
+      "kind": "similar_news"
+    },
+    {
+      "index": 866,
+      "sentence": "Today many Sámi work in modern trades. Tourism is an important income in Sápmi, the Sámi area.",
+      "question": "What is an important income in Sápmi?",
+      "answer": "Tourism",
+      "kind": "similar_news"
+    },
+    {
+      "index": 297,
+      "sentence": "Martelly swore in a new Provisional Electoral Council (CEP) of nine members yesterday.",
+      "question": "Who swore in a new Provisional Electoral Council?",
+      "answer": "Martelly",
+      "kind": "similar_news"
+    },
+    {
+      "index": 395,
+      "sentence": "Most of the life of the Hebrew family happened in the open air.",
+      "question": "Where did most of the life of the Hebrew family happen?",
+      "answer": "in the open air",
+      "kind": "similar_news"
+    },
+    {
+      "index": 68,
+      "sentence": "U.S. President George W. Bush arrived in Singapore the morning of November 16, beginning a week-long tour of Asia.",
+      "question": "When did U.S. President George W. Bush arrive in Singapore?",
+      "answer": "the morning of November 16",
+      "kind": "similar_news"
+    },
+    {
+      "index": 981,
+      "sentence": "However, people who know a little Spanish may hastily conclude that Portuguese is close enough that it need not be studied separately.",
+      "question": "What might people who know a little Spanish hastily conclude about Portuguese?",
+      "answer": "Portuguese is close enough that it need not be studied separately",
+      "kind": "similar_news"
+    },
+    {
+      "index": 17,
+      "sentence": "Throughout 1960s, Brzezinski worked for John F. Kennedy as his advisor and then the Lyndon B. Johnson administration.",
+      "question": "Who was Zbigniew Brzezinski's advisor in the 1960s?",
+      "answer": "John F. Kennedy",
+      "kind": "similar_news"
+    },
+    {
+      "index": 867,
+      "sentence": "Though it is widely used, especially among non-Romani, the word \"Gypsy\" is often considered offensive because of its associations with negative stereotypes and inaccurate perceptions of Romani people.",
+      "question": "Why is the word 'Gypsy' often considered offensive?",
+      "answer": "associations with negative stereotypes and inaccurate perceptions of Romani people",
+      "kind": "similar_news"
+    },
+    {
+      "index": 701,
+      "sentence": "European influence and colonialism began in the 15th century, as Portuguese explorer Vasco da Gama found the Cape Route from Europe to India.",
+      "question": "When did European influence and colonialism begin?",
+      "answer": "in the 15th century",
+      "kind": "similar_news"
+    },
+    {
+      "index": 0,
+      "sentence": "\"We now have 4-month-old mice that are non-diabetic that used to be diabetic,\" he added.",
+      "question": "How old are the non-diabetic mice mentioned?",
+      "answer": "4-month-old",
+      "kind": "similar_news"
+    }
+  ]
+}

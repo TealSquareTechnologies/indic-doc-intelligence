@@ -1,0 +1,552 @@
+[
+  {
+    "group": "in_corpus",
+    "question": "Where does Skype hold a strong position?",
+    "best_score": 0.3408
+  },
+  {
+    "group": "in_corpus",
+    "question": "When did the trial conclude?",
+    "best_score": 0.4295
+  },
+  {
+    "group": "in_corpus",
+    "question": "What does the fossil imply about the timing of the split compared to molecular evidence?",
+    "best_score": 0.4228
+  },
+  {
+    "group": "in_corpus",
+    "question": "What is Amir Khan's opinion on women fighting?",
+    "best_score": 0.4518
+  },
+  {
+    "group": "in_corpus",
+    "question": "When does Arias expect to return to his duties?",
+    "best_score": 0.4305
+  },
+  {
+    "group": "in_corpus",
+    "question": "What battle is the game based on?",
+    "best_score": 0.3836
+  },
+  {
+    "group": "in_corpus",
+    "question": "When did the issue start?",
+    "best_score": 0.5031
+  },
+  {
+    "group": "in_corpus",
+    "question": "What did the announcement extend?",
+    "best_score": 0.3386
+  },
+  {
+    "group": "in_corpus",
+    "question": "Were all people supportive of including women?",
+    "best_score": 0.2789
+  },
+  {
+    "group": "in_corpus",
+    "question": "What happened to Sir Richard Branson's Virgin Group's bid for the bank?",
+    "best_score": 0.5247
+  },
+  {
+    "group": "in_corpus",
+    "question": "How many times did Mr Reid drive the car over the bridge?",
+    "best_score": 0.4769
+  },
+  {
+    "group": "in_corpus",
+    "question": "What did Jonny Reid do?",
+    "best_score": 0.4125
+  },
+  {
+    "group": "in_corpus",
+    "question": "What happened about ten minutes before it was due to land from its second approach?",
+    "best_score": 0.4107
+  },
+  {
+    "group": "in_corpus",
+    "question": "How many more carriages are being acquired?",
+    "best_score": 0.4946
+  },
+  {
+    "group": "in_corpus",
+    "question": "What must Internet content physically reside on?",
+    "best_score": 0.3789
+  },
+  {
+    "group": "in_corpus",
+    "question": "What was the US Navy doing regarding the incident?",
+    "best_score": 0.4424
+  },
+  {
+    "group": "in_corpus",
+    "question": "Who remains the Drivers' Championship leader?",
+    "best_score": 0.6001
+  },
+  {
+    "group": "in_corpus",
+    "question": "What accompanied some of the rainfall?",
+    "best_score": 0.3881
+  },
+  {
+    "group": "in_corpus",
+    "question": "How recently were the geologic events that created these scarps?",
+    "best_score": 0.5963
+  },
+  {
+    "group": "in_corpus",
+    "question": "How many goals did he have?",
+    "best_score": 0.4814
+  },
+  {
+    "group": "in_corpus",
+    "question": "What is it?",
+    "best_score": 0.1919
+  },
+  {
+    "group": "in_corpus",
+    "question": "What did he believe in?",
+    "best_score": 0.2666
+  },
+  {
+    "group": "in_corpus",
+    "question": "How many new skyscrapers are being built?",
+    "best_score": 0.4803
+  },
+  {
+    "group": "in_corpus",
+    "question": "Who is today's Player of the Day?",
+    "best_score": 0.3966
+  },
+  {
+    "group": "in_corpus",
+    "question": "Why do fish often die?",
+    "best_score": 0.4908
+  },
+  {
+    "group": "in_corpus",
+    "question": "What hampered the search?",
+    "best_score": 0.4032
+  },
+  {
+    "group": "in_corpus",
+    "question": "What happened to Atlanta schools' test scores at the time of the award?",
+    "best_score": 0.6812
+  },
+  {
+    "group": "in_corpus",
+    "question": "What are they doing?",
+    "best_score": 0.2275
+  },
+  {
+    "group": "in_corpus",
+    "question": "Where did the protest move up?",
+    "best_score": 0.6194
+  },
+  {
+    "group": "in_corpus",
+    "question": "What has Virgin not purchased from Northern Rock?",
+    "best_score": 0.5563
+  },
+  {
+    "group": "in_corpus",
+    "question": "What was the probable cause of the leak?",
+    "best_score": 0.3598
+  },
+  {
+    "group": "in_corpus",
+    "question": "What was Nadia's birth weight?",
+    "best_score": 0.7748
+  },
+  {
+    "group": "in_corpus",
+    "question": "What did the attack put a huge strain on?",
+    "best_score": 0.5035
+  },
+  {
+    "group": "in_corpus",
+    "question": "What is the speed of the typhoon?",
+    "best_score": 0.4827
+  },
+  {
+    "group": "in_corpus",
+    "question": "What else was Blake convicted of?",
+    "best_score": 0.5765
+  },
+  {
+    "group": "in_corpus",
+    "question": "How many gunmen were involved in the operation enabled by David Headley?",
+    "best_score": 0.6055
+  },
+  {
+    "group": "in_corpus",
+    "question": "What did Reading Rainbow encourage kids to do?",
+    "best_score": 0.7483
+  },
+  {
+    "group": "in_corpus",
+    "question": "How many points ahead of Bowyer is Hamlin?",
+    "best_score": 0.576
+  },
+  {
+    "group": "in_corpus",
+    "question": "Who was the pilot?",
+    "best_score": 0.3597
+  },
+  {
+    "group": "in_corpus",
+    "question": "What allows the algae to increase in number dramatically?",
+    "best_score": 0.5182
+  },
+  {
+    "group": "in_corpus",
+    "question": "How many banks helped wealthy clients hide billions of US dollars of wealth?",
+    "best_score": 0.4729
+  },
+  {
+    "group": "in_corpus",
+    "question": "When were the Panama Papers leaked?",
+    "best_score": 0.7243
+  },
+  {
+    "group": "in_corpus",
+    "question": "What time did the police ask protesters to move back?",
+    "best_score": 0.6554
+  },
+  {
+    "group": "in_corpus",
+    "question": "What does this theory contradict?",
+    "best_score": 0.3139
+  },
+  {
+    "group": "in_corpus",
+    "question": "How long was the speech?",
+    "best_score": 0.2298
+  },
+  {
+    "group": "in_corpus",
+    "question": "How many times in history has this occurred?",
+    "best_score": 0.304
+  },
+  {
+    "group": "in_corpus",
+    "question": "When did the protest start?",
+    "best_score": 0.5797
+  },
+  {
+    "group": "in_corpus",
+    "question": "What did Konami state about the game Six Days in Fallujah?",
+    "best_score": 0.6679
+  },
+  {
+    "group": "in_corpus",
+    "question": "What does the name Hesperonychus mean?",
+    "best_score": 0.5532
+  },
+  {
+    "group": "in_corpus",
+    "question": "What is the consequence of Mr. Rudd's decision?",
+    "best_score": 0.4244
+  },
+  {
+    "group": "in_corpus",
+    "question": "What year was Northern Rock plc split from its bad bank?",
+    "best_score": 0.7339
+  },
+  {
+    "group": "in_corpus",
+    "question": "How many arrestees were released from the Central Booking facility in the last 3 months?",
+    "best_score": 0.4842
+  },
+  {
+    "group": "in_corpus",
+    "question": "What crime is the suspected male offender being investigated for?",
+    "best_score": 0.3706
+  },
+  {
+    "group": "in_corpus",
+    "question": "Who put an end to the Riina-driven war?",
+    "best_score": 0.3202
+  },
+  {
+    "group": "in_corpus",
+    "question": "Where was the ship going?",
+    "best_score": 0.4855
+  },
+  {
+    "group": "in_corpus",
+    "question": "What did Roberts refuse to say?",
+    "best_score": 0.5886
+  },
+  {
+    "group": "in_corpus",
+    "question": "What is the impact of many of their writers?",
+    "best_score": 0.3587
+  },
+  {
+    "group": "in_corpus",
+    "question": "What is one potential benefit mentioned by lead researchers?",
+    "best_score": 0.2167
+  },
+  {
+    "group": "in_corpus",
+    "question": "What did Perry say about places in the world?",
+    "best_score": 0.4611
+  },
+  {
+    "group": "in_corpus",
+    "question": "What did Hsieh argue about the photogenic Ma?",
+    "best_score": 0.5452
+  },
+  {
+    "group": "similar_news",
+    "question": "What does up mean?",
+    "best_score": 0.2109
+  },
+  {
+    "group": "similar_news",
+    "question": "What can the process of an organization working together to overcome an obstacle lead to?",
+    "best_score": 0.1339
+  },
+  {
+    "group": "similar_news",
+    "question": "Where was he initially hospitalised?",
+    "best_score": 0.3917
+  },
+  {
+    "group": "similar_news",
+    "question": "What could it not do regarding tax laws and tariffs?",
+    "best_score": 0.3911
+  },
+  {
+    "group": "similar_news",
+    "question": "When were bipedal specializations found in Australopithecus fossils?",
+    "best_score": 0.3587
+  },
+  {
+    "group": "similar_news",
+    "question": "What should not be done to structures?",
+    "best_score": 0.1575
+  },
+  {
+    "group": "similar_news",
+    "question": "What does a Schengen visa save?",
+    "best_score": 0.1623
+  },
+  {
+    "group": "similar_news",
+    "question": "Who expressed frustration over deletions?",
+    "best_score": 0.2592
+  },
+  {
+    "group": "similar_news",
+    "question": "What is it considered the flagship of?",
+    "best_score": 0.3075
+  },
+  {
+    "group": "similar_news",
+    "question": "How were most goods from Central America treated upon entering the country?",
+    "best_score": 0.2376
+  },
+  {
+    "group": "similar_news",
+    "question": "How much did opposition to Australia becoming a republic grow since 2008?",
+    "best_score": 0.391
+  },
+  {
+    "group": "similar_news",
+    "question": "Where are Tamaki Drive beaches located?",
+    "best_score": 0.2681
+  },
+  {
+    "group": "similar_news",
+    "question": "Who accompanied Lakkha Singh?",
+    "best_score": 0.3775
+  },
+  {
+    "group": "similar_news",
+    "question": "What are the two pools of genetic variation?",
+    "best_score": 0.1192
+  },
+  {
+    "group": "similar_news",
+    "question": "Who recruited qualified volunteers?",
+    "best_score": 0.2323
+  },
+  {
+    "group": "similar_news",
+    "question": "What did researchers infer about the rachis?",
+    "best_score": 0.2781
+  },
+  {
+    "group": "similar_news",
+    "question": "What did Prime Minister Stephen Harper agree to do?",
+    "best_score": 0.3196
+  },
+  {
+    "group": "similar_news",
+    "question": "What do they look like?",
+    "best_score": 0.1808
+  },
+  {
+    "group": "similar_news",
+    "question": "What should people do according to authorities?",
+    "best_score": 0.2528
+  },
+  {
+    "group": "similar_news",
+    "question": "Who was found covered with blood-stained blankets?",
+    "best_score": 0.2702
+  },
+  {
+    "group": "similar_news",
+    "question": "What is a civilization?",
+    "best_score": 0.1382
+  },
+  {
+    "group": "similar_news",
+    "question": "What is an important income in Sápmi?",
+    "best_score": 0.2344
+  },
+  {
+    "group": "similar_news",
+    "question": "Who swore in a new Provisional Electoral Council?",
+    "best_score": 0.3049
+  },
+  {
+    "group": "similar_news",
+    "question": "Where did most of the life of the Hebrew family happen?",
+    "best_score": 0.2254
+  },
+  {
+    "group": "similar_news",
+    "question": "When did U.S. President George W. Bush arrive in Singapore?",
+    "best_score": 0.2888
+  },
+  {
+    "group": "similar_news",
+    "question": "What might people who know a little Spanish hastily conclude about Portuguese?",
+    "best_score": 0.2271
+  },
+  {
+    "group": "similar_news",
+    "question": "Who was Zbigniew Brzezinski's advisor in the 1960s?",
+    "best_score": 0.2512
+  },
+  {
+    "group": "similar_news",
+    "question": "Why is the word 'Gypsy' often considered offensive?",
+    "best_score": 0.1772
+  },
+  {
+    "group": "similar_news",
+    "question": "When did European influence and colonialism begin?",
+    "best_score": 0.1872
+  },
+  {
+    "group": "similar_news",
+    "question": "How old are the non-diabetic mice mentioned?",
+    "best_score": 0.1575
+  },
+  {
+    "group": "general",
+    "question": "What is the capital of France?",
+    "best_score": 0.2129
+  },
+  {
+    "group": "general",
+    "question": "How many legs does a spider have?",
+    "best_score": 0.3712
+  },
+  {
+    "group": "general",
+    "question": "Who wrote Hamlet?",
+    "best_score": 0.1919
+  },
+  {
+    "group": "general",
+    "question": "What is the boiling point of water in Celsius?",
+    "best_score": 0.2716
+  },
+  {
+    "group": "general",
+    "question": "Which planet is closest to the Sun?",
+    "best_score": 0.3869
+  },
+  {
+    "group": "general",
+    "question": "What year did the Berlin Wall fall?",
+    "best_score": 0.3252
+  },
+  {
+    "group": "general",
+    "question": "What is the chemical symbol for gold?",
+    "best_score": 0.2339
+  },
+  {
+    "group": "general",
+    "question": "How many days are in a leap year?",
+    "best_score": 0.2194
+  },
+  {
+    "group": "general",
+    "question": "Who painted the Mona Lisa?",
+    "best_score": 0.2794
+  },
+  {
+    "group": "general",
+    "question": "What is the largest ocean on Earth?",
+    "best_score": 0.3278
+  },
+  {
+    "group": "general",
+    "question": "What is the square root of 144?",
+    "best_score": 0.1333
+  },
+  {
+    "group": "general",
+    "question": "Which language has the most native speakers?",
+    "best_score": 0.1263
+  },
+  {
+    "group": "general",
+    "question": "What is the tallest mountain in Africa?",
+    "best_score": 0.2184
+  },
+  {
+    "group": "general",
+    "question": "How many strings does a violin have?",
+    "best_score": 0.2038
+  },
+  {
+    "group": "general",
+    "question": "What does DNA stand for?",
+    "best_score": 0.2188
+  },
+  {
+    "group": "general",
+    "question": "Who discovered penicillin?",
+    "best_score": 0.2396
+  },
+  {
+    "group": "general",
+    "question": "What is the currency of Japan?",
+    "best_score": 0.1966
+  },
+  {
+    "group": "general",
+    "question": "How many players are on a football team?",
+    "best_score": 0.2417
+  },
+  {
+    "group": "general",
+    "question": "What is the freezing point of water in Fahrenheit?",
+    "best_score": 0.322
+  },
+  {
+    "group": "general",
+    "question": "Which gas do plants absorb?",
+    "best_score": 0.1774
+  }
+]

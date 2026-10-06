@@ -1,0 +1,4802 @@
+[
+  {
+    "code": "eng",
+    "page": 0,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.0,
+    "wer": 0.0,
+    "confidence": 0.9581,
+    "seconds": 1.038
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.0,
+    "wer": 0.0,
+    "confidence": 0.9582,
+    "seconds": 1.818
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.0,
+    "wer": 0.0,
+    "confidence": 0.9568,
+    "seconds": 0.916
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.0,
+    "wer": 0.0,
+    "confidence": 0.9572,
+    "seconds": 1.867
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.0,
+    "wer": 0.0,
+    "confidence": 0.9585,
+    "seconds": 1.226
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.0,
+    "wer": 0.0,
+    "confidence": 0.9587,
+    "seconds": 2.149
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.0,
+    "wer": 0.0,
+    "confidence": 0.9514,
+    "seconds": 0.875
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.02877697841726619,
+    "wer": 0.10714285714285714,
+    "confidence": 0.8964,
+    "seconds": 1.958
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.004316546762589928,
+    "wer": 0.026785714285714284,
+    "confidence": 0.9476,
+    "seconds": 0.892
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.004316546762589928,
+    "wer": 0.026785714285714284,
+    "confidence": 0.9474,
+    "seconds": 1.745
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.0,
+    "wer": 0.0,
+    "confidence": 0.9561,
+    "seconds": 0.902
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.0,
+    "wer": 0.0,
+    "confidence": 0.9563,
+    "seconds": 1.918
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.4172661870503597,
+    "wer": 0.4642857142857143,
+    "confidence": 0.9343,
+    "seconds": 1.369
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.5424460431654676,
+    "wer": 0.5714285714285714,
+    "confidence": 0.9234,
+    "seconds": 1.935
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.4172661870503597,
+    "wer": 0.45535714285714285,
+    "confidence": 0.9197,
+    "seconds": 1.309
+  },
+  {
+    "code": "eng",
+    "page": 0,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.0,
+    "wer": 0.0,
+    "confidence": 0.956,
+    "seconds": 1.918
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.0011587485515643105,
+    "wer": 0.007518796992481203,
+    "confidence": 0.9576,
+    "seconds": 1.048
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.0011587485515643105,
+    "wer": 0.007518796992481203,
+    "confidence": 0.9575,
+    "seconds": 1.848
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.0011587485515643105,
+    "wer": 0.007518796992481203,
+    "confidence": 0.9574,
+    "seconds": 1.119
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.0011587485515643105,
+    "wer": 0.007518796992481203,
+    "confidence": 0.9562,
+    "seconds": 1.943
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.0011587485515643105,
+    "wer": 0.007518796992481203,
+    "confidence": 0.9576,
+    "seconds": 1.379
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.0011587485515643105,
+    "wer": 0.007518796992481203,
+    "confidence": 0.9568,
+    "seconds": 2.252
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.0034762456546929316,
+    "wer": 0.03007518796992481,
+    "confidence": 0.9524,
+    "seconds": 1.034
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.039397450753186555,
+    "wer": 0.16541353383458646,
+    "confidence": 0.8578,
+    "seconds": 2.077
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.0011587485515643105,
+    "wer": 0.007518796992481203,
+    "confidence": 0.9549,
+    "seconds": 1.051
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.0011587485515643105,
+    "wer": 0.007518796992481203,
+    "confidence": 0.9552,
+    "seconds": 1.98
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.0011587485515643105,
+    "wer": 0.007518796992481203,
+    "confidence": 0.9569,
+    "seconds": 1.051
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.0011587485515643105,
+    "wer": 0.007518796992481203,
+    "confidence": 0.9523,
+    "seconds": 1.982
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.5504055619930475,
+    "wer": 0.6240601503759399,
+    "confidence": 0.9403,
+    "seconds": 1.71
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.944380069524913,
+    "wer": 0.9548872180451128,
+    "confidence": 0.91,
+    "seconds": 1.652
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.5515643105446119,
+    "wer": 0.6165413533834586,
+    "confidence": 0.917,
+    "seconds": 1.304
+  },
+  {
+    "code": "eng",
+    "page": 1,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.0011587485515643105,
+    "wer": 0.007518796992481203,
+    "confidence": 0.9574,
+    "seconds": 2.094
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.0048,
+    "wer": 0.02727272727272727,
+    "confidence": 0.9483,
+    "seconds": 0.881
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.0048,
+    "wer": 0.02727272727272727,
+    "confidence": 0.9497,
+    "seconds": 1.742
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.008,
+    "wer": 0.045454545454545456,
+    "confidence": 0.9476,
+    "seconds": 0.86
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.0048,
+    "wer": 0.02727272727272727,
+    "confidence": 0.9481,
+    "seconds": 1.719
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.0064,
+    "wer": 0.03636363636363636,
+    "confidence": 0.9517,
+    "seconds": 1.203
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.0064,
+    "wer": 0.03636363636363636,
+    "confidence": 0.9495,
+    "seconds": 2.096
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.008,
+    "wer": 0.045454545454545456,
+    "confidence": 0.9495,
+    "seconds": 0.852
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.0368,
+    "wer": 0.12727272727272726,
+    "confidence": 0.861,
+    "seconds": 1.929
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.008,
+    "wer": 0.045454545454545456,
+    "confidence": 0.9422,
+    "seconds": 0.831
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.008,
+    "wer": 0.045454545454545456,
+    "confidence": 0.9417,
+    "seconds": 1.903
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.0096,
+    "wer": 0.05454545454545454,
+    "confidence": 0.9423,
+    "seconds": 0.873
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.0096,
+    "wer": 0.045454545454545456,
+    "confidence": 0.9452,
+    "seconds": 1.791
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.7584,
+    "wer": 0.8090909090909091,
+    "confidence": 0.9322,
+    "seconds": 1.249
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.5536,
+    "wer": 0.6636363636363637,
+    "confidence": 0.9178,
+    "seconds": 2.025
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.7584,
+    "wer": 0.8272727272727273,
+    "confidence": 0.8734,
+    "seconds": 1.182
+  },
+  {
+    "code": "eng",
+    "page": 2,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.008,
+    "wer": 0.045454545454545456,
+    "confidence": 0.9433,
+    "seconds": 1.79
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.020558002936857563,
+    "wer": 0.03076923076923077,
+    "confidence": 0.9357,
+    "seconds": 1.077
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.020558002936857563,
+    "wer": 0.03076923076923077,
+    "confidence": 0.9356,
+    "seconds": 1.889
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.022026431718061675,
+    "wer": 0.038461538461538464,
+    "confidence": 0.9242,
+    "seconds": 0.978
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.04698972099853157,
+    "wer": 0.05384615384615385,
+    "confidence": 0.929,
+    "seconds": 1.89
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.08076358296622614,
+    "wer": 0.06923076923076923,
+    "confidence": 0.9246,
+    "seconds": 1.505
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.08076358296622614,
+    "wer": 0.06923076923076923,
+    "confidence": 0.9206,
+    "seconds": 2.21
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.05873715124816446,
+    "wer": 0.06923076923076923,
+    "confidence": 0.9203,
+    "seconds": 1.085
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.13215859030837004,
+    "wer": 0.23846153846153847,
+    "confidence": 0.8399,
+    "seconds": 2.224
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.06020558002936858,
+    "wer": 0.06923076923076923,
+    "confidence": 0.9151,
+    "seconds": 1.015
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.06167400881057269,
+    "wer": 0.07692307692307693,
+    "confidence": 0.9187,
+    "seconds": 2.178
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.022026431718061675,
+    "wer": 0.038461538461538464,
+    "confidence": 0.9283,
+    "seconds": 1.026
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.0381791483113069,
+    "wer": 0.06153846153846154,
+    "confidence": 0.9143,
+    "seconds": 1.961
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.95,
+    "seconds": 1.287
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.856093979441997,
+    "wer": 0.8615384615384616,
+    "confidence": 0.8582,
+    "seconds": 1.894
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.95,
+    "seconds": 1.227
+  },
+  {
+    "code": "hin",
+    "page": 0,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.05873715124816446,
+    "wer": 0.07692307692307693,
+    "confidence": 0.903,
+    "seconds": 2.032
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.014965986394557823,
+    "wer": 0.050359712230215826,
+    "confidence": 0.9149,
+    "seconds": 1.195
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.014965986394557823,
+    "wer": 0.050359712230215826,
+    "confidence": 0.9148,
+    "seconds": 2.111
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.013605442176870748,
+    "wer": 0.04316546762589928,
+    "confidence": 0.9139,
+    "seconds": 1.175
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.0163265306122449,
+    "wer": 0.05755395683453238,
+    "confidence": 0.9099,
+    "seconds": 2.109
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.021768707482993196,
+    "wer": 0.050359712230215826,
+    "confidence": 0.9059,
+    "seconds": 1.459
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.02312925170068027,
+    "wer": 0.050359712230215826,
+    "confidence": 0.9094,
+    "seconds": 2.387
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.02040816326530612,
+    "wer": 0.050359712230215826,
+    "confidence": 0.9041,
+    "seconds": 1.168
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.32653061224489793,
+    "wer": 0.43884892086330934,
+    "confidence": 0.8379,
+    "seconds": 2.36
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.029931972789115645,
+    "wer": 0.05755395683453238,
+    "confidence": 0.9044,
+    "seconds": 1.075
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.0326530612244898,
+    "wer": 0.07194244604316546,
+    "confidence": 0.902,
+    "seconds": 1.966
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.012244897959183673,
+    "wer": 0.03597122302158273,
+    "confidence": 0.9152,
+    "seconds": 1.079
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.012244897959183673,
+    "wer": 0.03597122302158273,
+    "confidence": 0.9117,
+    "seconds": 2.022
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.95,
+    "seconds": 1.293
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.746938775510204,
+    "wer": 0.7194244604316546,
+    "confidence": 0.8786,
+    "seconds": 1.901
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.95,
+    "seconds": 1.254
+  },
+  {
+    "code": "hin",
+    "page": 1,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.04625850340136054,
+    "wer": 0.10071942446043165,
+    "confidence": 0.8728,
+    "seconds": 2.054
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.013513513513513514,
+    "wer": 0.043859649122807015,
+    "confidence": 0.9114,
+    "seconds": 0.961
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.011824324324324325,
+    "wer": 0.03508771929824561,
+    "confidence": 0.9116,
+    "seconds": 2.011
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.008445945945945946,
+    "wer": 0.03508771929824561,
+    "confidence": 0.9139,
+    "seconds": 0.96
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.011824324324324325,
+    "wer": 0.043859649122807015,
+    "confidence": 0.9176,
+    "seconds": 2.204
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.016891891891891893,
+    "wer": 0.05263157894736842,
+    "confidence": 0.9083,
+    "seconds": 1.284
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.016891891891891893,
+    "wer": 0.05263157894736842,
+    "confidence": 0.9045,
+    "seconds": 2.16
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.02364864864864865,
+    "wer": 0.07894736842105263,
+    "confidence": 0.896,
+    "seconds": 0.944
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.0625,
+    "wer": 0.16666666666666666,
+    "confidence": 0.8323,
+    "seconds": 2.061
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.06418918918918919,
+    "wer": 0.08771929824561403,
+    "confidence": 0.8935,
+    "seconds": 0.916
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.06418918918918919,
+    "wer": 0.08771929824561403,
+    "confidence": 0.8936,
+    "seconds": 1.767
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.018581081081081082,
+    "wer": 0.043859649122807015,
+    "confidence": 0.9046,
+    "seconds": 1.006
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.015202702702702704,
+    "wer": 0.043859649122807015,
+    "confidence": 0.9051,
+    "seconds": 1.792
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.95,
+    "seconds": 1.425
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.8361486486486487,
+    "wer": 0.8596491228070176,
+    "confidence": 0.8941,
+    "seconds": 1.8
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.95,
+    "seconds": 1.265
+  },
+  {
+    "code": "hin",
+    "page": 2,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.02364864864864865,
+    "wer": 0.06140350877192982,
+    "confidence": 0.8989,
+    "seconds": 1.927
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.009153318077803204,
+    "wer": 0.040983606557377046,
+    "confidence": 0.9053,
+    "seconds": 0.98
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.009153318077803204,
+    "wer": 0.040983606557377046,
+    "confidence": 0.905,
+    "seconds": 1.977
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.011441647597254004,
+    "wer": 0.05737704918032787,
+    "confidence": 0.8893,
+    "seconds": 0.965
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.016018306636155607,
+    "wer": 0.09016393442622951,
+    "confidence": 0.8595,
+    "seconds": 1.974
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.011441647597254004,
+    "wer": 0.040983606557377046,
+    "confidence": 0.8787,
+    "seconds": 1.257
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.010297482837528604,
+    "wer": 0.040983606557377046,
+    "confidence": 0.8782,
+    "seconds": 2.233
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.013729977116704805,
+    "wer": 0.06557377049180328,
+    "confidence": 0.875,
+    "seconds": 1.0
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.36613272311212813,
+    "wer": 0.45901639344262296,
+    "confidence": 0.7308,
+    "seconds": 1.88
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.0,
+    "seconds": 0.403
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.0,
+    "seconds": 1.278
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.012585812356979404,
+    "wer": 0.06557377049180328,
+    "confidence": 0.8815,
+    "seconds": 1.023
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.010297482837528604,
+    "wer": 0.04918032786885246,
+    "confidence": 0.884,
+    "seconds": 1.834
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.95,
+    "seconds": 1.008
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.8363844393592678,
+    "wer": 0.8524590163934426,
+    "confidence": 0.7003,
+    "seconds": 1.705
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.95,
+    "seconds": 1.293
+  },
+  {
+    "code": "ben",
+    "page": 0,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.06178489702517163,
+    "wer": 0.11475409836065574,
+    "confidence": 0.8472,
+    "seconds": 1.753
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.013597033374536464,
+    "wer": 0.08695652173913043,
+    "confidence": 0.89,
+    "seconds": 0.993
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.011124845488257108,
+    "wer": 0.0782608695652174,
+    "confidence": 0.8919,
+    "seconds": 1.869
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.011124845488257108,
+    "wer": 0.06086956521739131,
+    "confidence": 0.9107,
+    "seconds": 0.991
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.02595797280593325,
+    "wer": 0.09565217391304348,
+    "confidence": 0.9064,
+    "seconds": 1.809
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.12360939431396786,
+    "wer": 0.16521739130434782,
+    "confidence": 0.8918,
+    "seconds": 1.292
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.11990111248454882,
+    "wer": 0.16521739130434782,
+    "confidence": 0.8897,
+    "seconds": 2.115
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.042027194066749075,
+    "wer": 0.13043478260869565,
+    "confidence": 0.8557,
+    "seconds": 0.865
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.32138442521631644,
+    "wer": 0.5478260869565217,
+    "confidence": 0.6557,
+    "seconds": 1.932
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.7824474660074165,
+    "wer": 0.8521739130434782,
+    "confidence": 0.6274,
+    "seconds": 0.504
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.7812113720642769,
+    "wer": 0.8608695652173913,
+    "confidence": 0.6256,
+    "seconds": 1.507
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.05315203955500618,
+    "wer": 0.17391304347826086,
+    "confidence": 0.8273,
+    "seconds": 0.918
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.11866501854140915,
+    "wer": 0.22608695652173913,
+    "confidence": 0.8214,
+    "seconds": 1.75
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.9011124845488258,
+    "wer": 0.9391304347826087,
+    "confidence": 0.756,
+    "seconds": 1.155
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.7626699629171817,
+    "wer": 0.8434782608695652,
+    "confidence": 0.5853,
+    "seconds": 1.82
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.9060568603213844,
+    "wer": 0.9478260869565217,
+    "confidence": 0.7585,
+    "seconds": 1.129
+  },
+  {
+    "code": "ben",
+    "page": 1,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.04573547589616811,
+    "wer": 0.13043478260869565,
+    "confidence": 0.8791,
+    "seconds": 1.862
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.00798175598631699,
+    "wer": 0.048,
+    "confidence": 0.8971,
+    "seconds": 0.999
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.009122006841505131,
+    "wer": 0.056,
+    "confidence": 0.9046,
+    "seconds": 1.873
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.011402508551881414,
+    "wer": 0.072,
+    "confidence": 0.8951,
+    "seconds": 1.034
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.011402508551881414,
+    "wer": 0.064,
+    "confidence": 0.8952,
+    "seconds": 1.853
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.005701254275940707,
+    "wer": 0.04,
+    "confidence": 0.9049,
+    "seconds": 1.3
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.005701254275940707,
+    "wer": 0.04,
+    "confidence": 0.8994,
+    "seconds": 2.151
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.20410490307867732,
+    "wer": 0.248,
+    "confidence": 0.8908,
+    "seconds": 0.807
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.2120866590649943,
+    "wer": 0.368,
+    "confidence": 0.6831,
+    "seconds": 1.884
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.4070695553021665,
+    "wer": 0.576,
+    "confidence": 0.6368,
+    "seconds": 0.767
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.4241733181299886,
+    "wer": 0.608,
+    "confidence": 0.6472,
+    "seconds": 1.653
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.004561003420752566,
+    "wer": 0.024,
+    "confidence": 0.9025,
+    "seconds": 0.946
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.020524515393386546,
+    "wer": 0.064,
+    "confidence": 0.8969,
+    "seconds": 1.914
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.95,
+    "seconds": 1.071
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.8859749144811858,
+    "wer": 0.888,
+    "confidence": 0.8905,
+    "seconds": 1.631
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.95,
+    "seconds": 1.009
+  },
+  {
+    "code": "ben",
+    "page": 2,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.12086659064994298,
+    "wer": 0.16,
+    "confidence": 0.8869,
+    "seconds": 1.754
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.01293103448275862,
+    "wer": 0.03759398496240601,
+    "confidence": 0.9377,
+    "seconds": 0.772
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.01293103448275862,
+    "wer": 0.03759398496240601,
+    "confidence": 0.9365,
+    "seconds": 1.591
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.01293103448275862,
+    "wer": 0.03759398496240601,
+    "confidence": 0.9356,
+    "seconds": 0.746
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.01867816091954023,
+    "wer": 0.06015037593984962,
+    "confidence": 0.9225,
+    "seconds": 1.721
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.01867816091954023,
+    "wer": 0.06015037593984962,
+    "confidence": 0.9248,
+    "seconds": 1.05
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.015804597701149427,
+    "wer": 0.05263157894736842,
+    "confidence": 0.9201,
+    "seconds": 2.012
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.014367816091954023,
+    "wer": 0.045112781954887216,
+    "confidence": 0.9195,
+    "seconds": 0.722
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.30603448275862066,
+    "wer": 0.40601503759398494,
+    "confidence": 0.7752,
+    "seconds": 1.713
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.0,
+    "seconds": 0.384
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.0,
+    "seconds": 1.202
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.015804597701149427,
+    "wer": 0.05263157894736842,
+    "confidence": 0.94,
+    "seconds": 0.779
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.01867816091954023,
+    "wer": 0.06766917293233082,
+    "confidence": 0.9296,
+    "seconds": 1.625
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.7686781609195402,
+    "wer": 0.7669172932330827,
+    "confidence": 0.8495,
+    "seconds": 1.102
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.5933908045977011,
+    "wer": 0.6390977443609023,
+    "confidence": 0.7725,
+    "seconds": 1.764
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.7686781609195402,
+    "wer": 0.7669172932330827,
+    "confidence": 0.8739,
+    "seconds": 1.079
+  },
+  {
+    "code": "pan",
+    "page": 0,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.01293103448275862,
+    "wer": 0.03759398496240601,
+    "confidence": 0.9346,
+    "seconds": 1.578
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.015736766809728183,
+    "wer": 0.064,
+    "confidence": 0.9218,
+    "seconds": 0.78
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.015736766809728183,
+    "wer": 0.064,
+    "confidence": 0.9226,
+    "seconds": 1.687
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.015736766809728183,
+    "wer": 0.064,
+    "confidence": 0.9205,
+    "seconds": 0.816
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.01859799713876967,
+    "wer": 0.072,
+    "confidence": 0.9156,
+    "seconds": 1.696
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.020028612303290415,
+    "wer": 0.08,
+    "confidence": 0.921,
+    "seconds": 1.128
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.020028612303290415,
+    "wer": 0.08,
+    "confidence": 0.9254,
+    "seconds": 2.066
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.27753934191702434,
+    "wer": 0.312,
+    "confidence": 0.9128,
+    "seconds": 0.658
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.2575107296137339,
+    "wer": 0.448,
+    "confidence": 0.7306,
+    "seconds": 1.796
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.9256080114449213,
+    "wer": 0.96,
+    "confidence": 0.5385,
+    "seconds": 0.383
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.927038626609442,
+    "wer": 0.96,
+    "confidence": 0.5331,
+    "seconds": 1.268
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.015736766809728183,
+    "wer": 0.056,
+    "confidence": 0.9216,
+    "seconds": 0.78
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.015736766809728183,
+    "wer": 0.064,
+    "confidence": 0.9221,
+    "seconds": 1.629
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.8640915593705293,
+    "wer": 0.856,
+    "confidence": 0.8664,
+    "seconds": 1.095
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.95,
+    "seconds": 1.555
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.8612303290414879,
+    "wer": 0.856,
+    "confidence": 0.8361,
+    "seconds": 1.046
+  },
+  {
+    "code": "pan",
+    "page": 1,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.01430615164520744,
+    "wer": 0.048,
+    "confidence": 0.9244,
+    "seconds": 1.653
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.02269503546099291,
+    "wer": 0.08208955223880597,
+    "confidence": 0.9152,
+    "seconds": 0.757
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.02269503546099291,
+    "wer": 0.08208955223880597,
+    "confidence": 0.9122,
+    "seconds": 1.662
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.02269503546099291,
+    "wer": 0.08955223880597014,
+    "confidence": 0.9148,
+    "seconds": 0.743
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.14893617021276595,
+    "wer": 0.23134328358208955,
+    "confidence": 0.9098,
+    "seconds": 1.531
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.14609929078014183,
+    "wer": 0.208955223880597,
+    "confidence": 0.9127,
+    "seconds": 1.023
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.1475177304964539,
+    "wer": 0.21641791044776118,
+    "confidence": 0.9035,
+    "seconds": 1.921
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.150354609929078,
+    "wer": 0.21641791044776118,
+    "confidence": 0.9084,
+    "seconds": 0.663
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.4907801418439716,
+    "wer": 0.664179104477612,
+    "confidence": 0.6397,
+    "seconds": 1.663
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.9418439716312057,
+    "wer": 0.9402985074626866,
+    "confidence": 0.633,
+    "seconds": 0.379
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.9418439716312057,
+    "wer": 0.9402985074626866,
+    "confidence": 0.639,
+    "seconds": 1.281
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.27801418439716313,
+    "wer": 0.3208955223880597,
+    "confidence": 0.9093,
+    "seconds": 0.649
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.5361702127659574,
+    "wer": 0.5522388059701493,
+    "confidence": 0.9161,
+    "seconds": 1.391
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.95,
+    "seconds": 0.987
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.95,
+    "seconds": 1.567
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.95,
+    "seconds": 0.918
+  },
+  {
+    "code": "pan",
+    "page": 2,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.02127659574468085,
+    "wer": 0.06716417910447761,
+    "confidence": 0.9087,
+    "seconds": 1.726
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.019178082191780823,
+    "wer": 0.08771929824561403,
+    "confidence": 0.9127,
+    "seconds": 1.027
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.019178082191780823,
+    "wer": 0.08771929824561403,
+    "confidence": 0.9123,
+    "seconds": 1.921
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.0136986301369863,
+    "wer": 0.06140350877192982,
+    "confidence": 0.8935,
+    "seconds": 0.991
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.019178082191780823,
+    "wer": 0.07894736842105263,
+    "confidence": 0.8911,
+    "seconds": 1.905
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.01643835616438356,
+    "wer": 0.05263157894736842,
+    "confidence": 0.9004,
+    "seconds": 1.345
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.019178082191780823,
+    "wer": 0.05263157894736842,
+    "confidence": 0.9043,
+    "seconds": 2.309
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.012328767123287671,
+    "wer": 0.05263157894736842,
+    "confidence": 0.878,
+    "seconds": 1.014
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.07260273972602739,
+    "wer": 0.2631578947368421,
+    "confidence": 0.7826,
+    "seconds": 1.984
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.015068493150684932,
+    "wer": 0.06140350877192982,
+    "confidence": 0.9018,
+    "seconds": 1.034
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.015068493150684932,
+    "wer": 0.06140350877192982,
+    "confidence": 0.9048,
+    "seconds": 1.973
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.015068493150684932,
+    "wer": 0.06140350877192982,
+    "confidence": 0.8969,
+    "seconds": 0.974
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.02054794520547945,
+    "wer": 0.07017543859649122,
+    "confidence": 0.8939,
+    "seconds": 1.931
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.4438356164383562,
+    "wer": 0.5,
+    "confidence": 0.8582,
+    "seconds": 1.311
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.3315068493150685,
+    "wer": 0.3684210526315789,
+    "confidence": 0.8835,
+    "seconds": 2.121
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.44794520547945205,
+    "wer": 0.5175438596491229,
+    "confidence": 0.8153,
+    "seconds": 1.282
+  },
+  {
+    "code": "guj",
+    "page": 0,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.01780821917808219,
+    "wer": 0.07017543859649122,
+    "confidence": 0.8975,
+    "seconds": 1.89
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.00851581508515815,
+    "wer": 0.047244094488188976,
+    "confidence": 0.9123,
+    "seconds": 1.074
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.00851581508515815,
+    "wer": 0.047244094488188976,
+    "confidence": 0.9128,
+    "seconds": 2.012
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.009732360097323601,
+    "wer": 0.05511811023622047,
+    "confidence": 0.9092,
+    "seconds": 1.133
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.012165450121654502,
+    "wer": 0.05511811023622047,
+    "confidence": 0.9198,
+    "seconds": 2.085
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.006082725060827251,
+    "wer": 0.03937007874015748,
+    "confidence": 0.9151,
+    "seconds": 1.468
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.006082725060827251,
+    "wer": 0.03937007874015748,
+    "confidence": 0.9158,
+    "seconds": 2.29
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.010948905109489052,
+    "wer": 0.06299212598425197,
+    "confidence": 0.9015,
+    "seconds": 1.133
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.05961070559610705,
+    "wer": 0.1968503937007874,
+    "confidence": 0.8251,
+    "seconds": 2.189
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.01338199513381995,
+    "wer": 0.08661417322834646,
+    "confidence": 0.8977,
+    "seconds": 1.098
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.01338199513381995,
+    "wer": 0.08661417322834646,
+    "confidence": 0.9006,
+    "seconds": 1.978
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.006082725060827251,
+    "wer": 0.03937007874015748,
+    "confidence": 0.9119,
+    "seconds": 1.103
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.012165450121654502,
+    "wer": 0.06299212598425197,
+    "confidence": 0.9069,
+    "seconds": 1.859
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.781021897810219,
+    "wer": 0.8110236220472441,
+    "confidence": 0.8174,
+    "seconds": 1.114
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.5985401459854015,
+    "wer": 0.6692913385826772,
+    "confidence": 0.8398,
+    "seconds": 1.916
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.7858880778588808,
+    "wer": 0.8188976377952756,
+    "confidence": 0.801,
+    "seconds": 1.097
+  },
+  {
+    "code": "guj",
+    "page": 1,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.023114355231143552,
+    "wer": 0.11023622047244094,
+    "confidence": 0.8879,
+    "seconds": 2.149
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.010540184453227932,
+    "wer": 0.06349206349206349,
+    "confidence": 0.9198,
+    "seconds": 1.051
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.010540184453227932,
+    "wer": 0.06349206349206349,
+    "confidence": 0.9202,
+    "seconds": 1.941
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.021080368906455864,
+    "wer": 0.10317460317460317,
+    "confidence": 0.899,
+    "seconds": 1.064
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.013175230566534914,
+    "wer": 0.06349206349206349,
+    "confidence": 0.901,
+    "seconds": 1.997
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.007905138339920948,
+    "wer": 0.03968253968253968,
+    "confidence": 0.9125,
+    "seconds": 1.392
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.006587615283267457,
+    "wer": 0.031746031746031744,
+    "confidence": 0.9057,
+    "seconds": 2.349
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.00922266139657444,
+    "wer": 0.047619047619047616,
+    "confidence": 0.9113,
+    "seconds": 1.047
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.07246376811594203,
+    "wer": 0.2619047619047619,
+    "confidence": 0.7946,
+    "seconds": 2.106
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.013175230566534914,
+    "wer": 0.05555555555555555,
+    "confidence": 0.9033,
+    "seconds": 1.074
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.013175230566534914,
+    "wer": 0.05555555555555555,
+    "confidence": 0.902,
+    "seconds": 2.016
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.015810276679841896,
+    "wer": 0.05555555555555555,
+    "confidence": 0.9175,
+    "seconds": 1.029
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.00922266139657444,
+    "wer": 0.03968253968253968,
+    "confidence": 0.905,
+    "seconds": 2.0
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.5810276679841897,
+    "wer": 0.6666666666666666,
+    "confidence": 0.8332,
+    "seconds": 1.282
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.380764163372859,
+    "wer": 0.5,
+    "confidence": 0.8587,
+    "seconds": 2.084
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.5876152832674572,
+    "wer": 0.6587301587301587,
+    "confidence": 0.787,
+    "seconds": 1.256
+  },
+  {
+    "code": "guj",
+    "page": 2,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.013175230566534914,
+    "wer": 0.06349206349206349,
+    "confidence": 0.8998,
+    "seconds": 1.934
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.03485576923076923,
+    "wer": 0.1724137931034483,
+    "confidence": 0.865,
+    "seconds": 1.231
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.036057692307692304,
+    "wer": 0.1724137931034483,
+    "confidence": 0.8497,
+    "seconds": 2.117
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.04567307692307692,
+    "wer": 0.1896551724137931,
+    "confidence": 0.8405,
+    "seconds": 1.259
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.052884615384615384,
+    "wer": 0.20689655172413793,
+    "confidence": 0.8233,
+    "seconds": 2.162
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.038461538461538464,
+    "wer": 0.15517241379310345,
+    "confidence": 0.8603,
+    "seconds": 1.603
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.040865384615384616,
+    "wer": 0.15517241379310345,
+    "confidence": 0.8618,
+    "seconds": 2.374
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.04807692307692308,
+    "wer": 0.22413793103448276,
+    "confidence": 0.8456,
+    "seconds": 1.288
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.11177884615384616,
+    "wer": 0.4482758620689655,
+    "confidence": 0.7743,
+    "seconds": 2.219
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.030048076923076924,
+    "wer": 0.1206896551724138,
+    "confidence": 0.8503,
+    "seconds": 1.279
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.03245192307692308,
+    "wer": 0.12931034482758622,
+    "confidence": 0.8515,
+    "seconds": 2.216
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.04447115384615385,
+    "wer": 0.1724137931034483,
+    "confidence": 0.856,
+    "seconds": 1.246
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.046875,
+    "wer": 0.1810344827586207,
+    "confidence": 0.8522,
+    "seconds": 2.24
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.47596153846153844,
+    "wer": 0.5603448275862069,
+    "confidence": 0.8017,
+    "seconds": 1.405
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.4987980769230769,
+    "wer": 0.5862068965517241,
+    "confidence": 0.8163,
+    "seconds": 2.081
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.5048076923076923,
+    "wer": 0.646551724137931,
+    "confidence": 0.7111,
+    "seconds": 1.774
+  },
+  {
+    "code": "ori",
+    "page": 0,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.046875,
+    "wer": 0.21551724137931033,
+    "confidence": 0.8168,
+    "seconds": 2.326
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.06329113924050633,
+    "wer": 0.24324324324324326,
+    "confidence": 0.8027,
+    "seconds": 1.157
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.0620253164556962,
+    "wer": 0.23423423423423423,
+    "confidence": 0.7965,
+    "seconds": 2.227
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.06329113924050633,
+    "wer": 0.25225225225225223,
+    "confidence": 0.7851,
+    "seconds": 1.17
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.06962025316455696,
+    "wer": 0.24324324324324326,
+    "confidence": 0.7886,
+    "seconds": 2.063
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.0620253164556962,
+    "wer": 0.23423423423423423,
+    "confidence": 0.8187,
+    "seconds": 1.63
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.056962025316455694,
+    "wer": 0.22522522522522523,
+    "confidence": 0.8218,
+    "seconds": 2.527
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.0670886075949367,
+    "wer": 0.2882882882882883,
+    "confidence": 0.8035,
+    "seconds": 1.296
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.11645569620253164,
+    "wer": 0.44144144144144143,
+    "confidence": 0.762,
+    "seconds": 2.515
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.0670886075949367,
+    "wer": 0.27927927927927926,
+    "confidence": 0.8084,
+    "seconds": 1.222
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.06329113924050633,
+    "wer": 0.26126126126126126,
+    "confidence": 0.7809,
+    "seconds": 2.023
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.06582278481012659,
+    "wer": 0.2702702702702703,
+    "confidence": 0.8082,
+    "seconds": 1.164
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.06329113924050633,
+    "wer": 0.25225225225225223,
+    "confidence": 0.8091,
+    "seconds": 2.183
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.6949367088607595,
+    "wer": 0.7927927927927928,
+    "confidence": 0.7831,
+    "seconds": 1.24
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.6531645569620254,
+    "wer": 0.8558558558558559,
+    "confidence": 0.7143,
+    "seconds": 2.216
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.7,
+    "wer": 0.8198198198198198,
+    "confidence": 0.7059,
+    "seconds": 1.256
+  },
+  {
+    "code": "ori",
+    "page": 1,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.060759493670886074,
+    "wer": 0.26126126126126126,
+    "confidence": 0.7916,
+    "seconds": 2.035
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.04004854368932039,
+    "wer": 0.1864406779661017,
+    "confidence": 0.8647,
+    "seconds": 1.188
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.038834951456310676,
+    "wer": 0.17796610169491525,
+    "confidence": 0.8657,
+    "seconds": 2.025
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.03398058252427184,
+    "wer": 0.17796610169491525,
+    "confidence": 0.8418,
+    "seconds": 1.148
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.04733009708737864,
+    "wer": 0.22033898305084745,
+    "confidence": 0.8311,
+    "seconds": 2.031
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.03519417475728155,
+    "wer": 0.1864406779661017,
+    "confidence": 0.8366,
+    "seconds": 1.534
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.03640776699029126,
+    "wer": 0.19491525423728814,
+    "confidence": 0.8415,
+    "seconds": 2.322
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.050970873786407765,
+    "wer": 0.2627118644067797,
+    "confidence": 0.8371,
+    "seconds": 1.209
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.11165048543689321,
+    "wer": 0.4576271186440678,
+    "confidence": 0.7394,
+    "seconds": 2.272
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.04854368932038835,
+    "wer": 0.23728813559322035,
+    "confidence": 0.8479,
+    "seconds": 1.254
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.04733009708737864,
+    "wer": 0.22033898305084745,
+    "confidence": 0.8377,
+    "seconds": 1.964
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.03762135922330097,
+    "wer": 0.1864406779661017,
+    "confidence": 0.8608,
+    "seconds": 1.17
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.04975728155339806,
+    "wer": 0.2288135593220339,
+    "confidence": 0.847,
+    "seconds": 2.101
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.42718446601941745,
+    "wer": 0.5677966101694916,
+    "confidence": 0.787,
+    "seconds": 1.499
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.4854368932038835,
+    "wer": 0.5677966101694916,
+    "confidence": 0.8275,
+    "seconds": 2.199
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.4441747572815534,
+    "wer": 0.5932203389830508,
+    "confidence": 0.694,
+    "seconds": 1.49
+  },
+  {
+    "code": "ori",
+    "page": 2,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.04733009708737864,
+    "wer": 0.211864406779661,
+    "confidence": 0.8135,
+    "seconds": 2.208
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.6995215311004784,
+    "wer": 1.2586206896551724,
+    "confidence": 0.8369,
+    "seconds": 1.37
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.6995215311004784,
+    "wer": 1.2586206896551724,
+    "confidence": 0.8386,
+    "seconds": 2.359
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.6976076555023923,
+    "wer": 1.2586206896551724,
+    "confidence": 0.8232,
+    "seconds": 1.403
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.02583732057416268,
+    "wer": 0.14655172413793102,
+    "confidence": 0.8874,
+    "seconds": 2.173
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.021052631578947368,
+    "wer": 0.10344827586206896,
+    "confidence": 0.8603,
+    "seconds": 1.757
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.020095693779904306,
+    "wer": 0.09482758620689655,
+    "confidence": 0.861,
+    "seconds": 2.77
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.02200956937799043,
+    "wer": 0.11206896551724138,
+    "confidence": 0.8809,
+    "seconds": 1.29
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.08133971291866028,
+    "wer": 0.35344827586206895,
+    "confidence": 0.7483,
+    "seconds": 2.331
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.03444976076555024,
+    "wer": 0.16379310344827586,
+    "confidence": 0.8276,
+    "seconds": 1.324
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.03349282296650718,
+    "wer": 0.16379310344827586,
+    "confidence": 0.8257,
+    "seconds": 2.264
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.024880382775119617,
+    "wer": 0.12931034482758622,
+    "confidence": 0.8459,
+    "seconds": 1.281
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.02583732057416268,
+    "wer": 0.1206896551724138,
+    "confidence": 0.8617,
+    "seconds": 2.294
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.6191387559808612,
+    "wer": 0.6724137931034483,
+    "confidence": 0.8588,
+    "seconds": 1.318
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.4382775119617225,
+    "wer": 0.5258620689655172,
+    "confidence": 0.8391,
+    "seconds": 2.341
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.6267942583732058,
+    "wer": 0.6810344827586207,
+    "confidence": 0.8768,
+    "seconds": 1.277
+  },
+  {
+    "code": "tam",
+    "page": 0,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.02966507177033493,
+    "wer": 0.13793103448275862,
+    "confidence": 0.8716,
+    "seconds": 2.22
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.049789029535864976,
+    "wer": 0.22137404580152673,
+    "confidence": 0.8622,
+    "seconds": 1.659
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.049789029535864976,
+    "wer": 0.22137404580152673,
+    "confidence": 0.8621,
+    "seconds": 2.635
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.04135021097046414,
+    "wer": 0.17557251908396945,
+    "confidence": 0.8683,
+    "seconds": 1.508
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.01350210970464135,
+    "wer": 0.061068702290076333,
+    "confidence": 0.8888,
+    "seconds": 2.508
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.016033755274261603,
+    "wer": 0.07633587786259542,
+    "confidence": 0.887,
+    "seconds": 1.807
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.015189873417721518,
+    "wer": 0.07633587786259542,
+    "confidence": 0.8912,
+    "seconds": 2.858
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.029535864978902954,
+    "wer": 0.1297709923664122,
+    "confidence": 0.8725,
+    "seconds": 1.387
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.0751054852320675,
+    "wer": 0.3511450381679389,
+    "confidence": 0.7666,
+    "seconds": 2.499
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.04219409282700422,
+    "wer": 0.19083969465648856,
+    "confidence": 0.8605,
+    "seconds": 1.608
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.043037974683544304,
+    "wer": 0.19083969465648856,
+    "confidence": 0.855,
+    "seconds": 2.342
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.014345991561181435,
+    "wer": 0.07633587786259542,
+    "confidence": 0.8716,
+    "seconds": 1.416
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.016033755274261603,
+    "wer": 0.07633587786259542,
+    "confidence": 0.8728,
+    "seconds": 2.319
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.6624472573839663,
+    "wer": 0.7557251908396947,
+    "confidence": 0.8438,
+    "seconds": 1.329
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.769620253164557,
+    "wer": 0.8244274809160306,
+    "confidence": 0.8921,
+    "seconds": 1.92
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.6666666666666666,
+    "wer": 0.7709923664122137,
+    "confidence": 0.8012,
+    "seconds": 1.231
+  },
+  {
+    "code": "tam",
+    "page": 1,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.024472573839662448,
+    "wer": 0.11450381679389313,
+    "confidence": 0.876,
+    "seconds": 2.361
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.015482695810564663,
+    "wer": 0.09322033898305085,
+    "confidence": 0.887,
+    "seconds": 1.368
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.012750455373406194,
+    "wer": 0.07627118644067797,
+    "confidence": 0.8885,
+    "seconds": 2.33
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.01639344262295082,
+    "wer": 0.09322033898305085,
+    "confidence": 0.898,
+    "seconds": 1.385
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.018214936247723135,
+    "wer": 0.07627118644067797,
+    "confidence": 0.896,
+    "seconds": 2.276
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.020036429872495445,
+    "wer": 0.1016949152542373,
+    "confidence": 0.8873,
+    "seconds": 1.739
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.020036429872495445,
+    "wer": 0.11016949152542373,
+    "confidence": 0.8939,
+    "seconds": 2.563
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.023679417122040074,
+    "wer": 0.11864406779661017,
+    "confidence": 0.8837,
+    "seconds": 1.292
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.05919854280510018,
+    "wer": 0.2796610169491525,
+    "confidence": 0.7889,
+    "seconds": 2.32
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.028233151183970857,
+    "wer": 0.1271186440677966,
+    "confidence": 0.85,
+    "seconds": 1.514
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.028233151183970857,
+    "wer": 0.1271186440677966,
+    "confidence": 0.8479,
+    "seconds": 2.357
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.014571948998178506,
+    "wer": 0.07627118644067797,
+    "confidence": 0.882,
+    "seconds": 1.331
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.01639344262295082,
+    "wer": 0.0847457627118644,
+    "confidence": 0.8857,
+    "seconds": 2.19
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.6857923497267759,
+    "wer": 0.7627118644067796,
+    "confidence": 0.8514,
+    "seconds": 1.323
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.7622950819672131,
+    "wer": 0.8305084745762712,
+    "confidence": 0.8612,
+    "seconds": 1.981
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.6867030965391621,
+    "wer": 0.7627118644067796,
+    "confidence": 0.7921,
+    "seconds": 1.23
+  },
+  {
+    "code": "tam",
+    "page": 2,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.02459016393442623,
+    "wer": 0.11016949152542373,
+    "confidence": 0.8831,
+    "seconds": 2.14
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.06401551891367604,
+    "wer": 0.20155038759689922,
+    "confidence": 0.8003,
+    "seconds": 1.454
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.06401551891367604,
+    "wer": 0.20155038759689922,
+    "confidence": 0.8035,
+    "seconds": 2.261
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.06498545101842872,
+    "wer": 0.21705426356589147,
+    "confidence": 0.784,
+    "seconds": 1.438
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.05722599418040737,
+    "wer": 0.20155038759689922,
+    "confidence": 0.8218,
+    "seconds": 2.372
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.07953443258971872,
+    "wer": 0.2558139534883721,
+    "confidence": 0.8025,
+    "seconds": 1.811
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.07662463627546072,
+    "wer": 0.24031007751937986,
+    "confidence": 0.8023,
+    "seconds": 2.662
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.07371483996120272,
+    "wer": 0.24806201550387597,
+    "confidence": 0.7963,
+    "seconds": 1.438
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.09990300678952474,
+    "wer": 0.35658914728682173,
+    "confidence": 0.7059,
+    "seconds": 2.481
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.07662463627546072,
+    "wer": 0.2713178294573643,
+    "confidence": 0.7772,
+    "seconds": 1.449
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.08050436469447139,
+    "wer": 0.2713178294573643,
+    "confidence": 0.7681,
+    "seconds": 2.366
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.06013579049466537,
+    "wer": 0.20930232558139536,
+    "confidence": 0.7833,
+    "seconds": 1.44
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.05625606207565471,
+    "wer": 0.18604651162790697,
+    "confidence": 0.824,
+    "seconds": 2.319
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.5868089233753637,
+    "wer": 0.689922480620155,
+    "confidence": 0.7492,
+    "seconds": 1.527
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.6508244422890398,
+    "wer": 0.7131782945736435,
+    "confidence": 0.8103,
+    "seconds": 2.115
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.5819592628516004,
+    "wer": 0.689922480620155,
+    "confidence": 0.7419,
+    "seconds": 1.506
+  },
+  {
+    "code": "tel",
+    "page": 0,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.06013579049466537,
+    "wer": 0.21705426356589147,
+    "confidence": 0.814,
+    "seconds": 2.348
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.047516198704103674,
+    "wer": 0.175,
+    "confidence": 0.8342,
+    "seconds": 1.367
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.047516198704103674,
+    "wer": 0.175,
+    "confidence": 0.8327,
+    "seconds": 2.247
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.04643628509719223,
+    "wer": 0.175,
+    "confidence": 0.8392,
+    "seconds": 1.37
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.0367170626349892,
+    "wer": 0.16666666666666666,
+    "confidence": 0.8416,
+    "seconds": 2.295
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.04643628509719223,
+    "wer": 0.14166666666666666,
+    "confidence": 0.8334,
+    "seconds": 1.704
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.038876889848812095,
+    "wer": 0.14166666666666666,
+    "confidence": 0.8418,
+    "seconds": 2.553
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.042116630669546434,
+    "wer": 0.15833333333333333,
+    "confidence": 0.8266,
+    "seconds": 1.399
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.10475161987041037,
+    "wer": 0.4,
+    "confidence": 0.7068,
+    "seconds": 2.36
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.13174946004319654,
+    "wer": 0.31666666666666665,
+    "confidence": 0.7599,
+    "seconds": 1.274
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.1306695464362851,
+    "wer": 0.30833333333333335,
+    "confidence": 0.7672,
+    "seconds": 2.197
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.04643628509719223,
+    "wer": 0.15833333333333333,
+    "confidence": 0.8325,
+    "seconds": 1.314
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.03347732181425486,
+    "wer": 0.13333333333333333,
+    "confidence": 0.8676,
+    "seconds": 2.187
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.7408207343412527,
+    "wer": 0.8333333333333334,
+    "confidence": 0.8183,
+    "seconds": 1.226
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 1.0,
+    "wer": 1.0,
+    "confidence": 0.95,
+    "seconds": 1.605
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.7408207343412527,
+    "wer": 0.8166666666666667,
+    "confidence": 0.768,
+    "seconds": 1.192
+  },
+  {
+    "code": "tel",
+    "page": 1,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.03779697624190065,
+    "wer": 0.15833333333333333,
+    "confidence": 0.8376,
+    "seconds": 2.224
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.06461538461538462,
+    "wer": 0.19166666666666668,
+    "confidence": 0.8367,
+    "seconds": 1.404
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.06358974358974359,
+    "wer": 0.19166666666666668,
+    "confidence": 0.8337,
+    "seconds": 2.26
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.0758974358974359,
+    "wer": 0.21666666666666667,
+    "confidence": 0.7922,
+    "seconds": 1.459
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.06974358974358974,
+    "wer": 0.2,
+    "confidence": 0.8326,
+    "seconds": 2.33
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.07897435897435898,
+    "wer": 0.23333333333333334,
+    "confidence": 0.8226,
+    "seconds": 1.835
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.07179487179487179,
+    "wer": 0.2,
+    "confidence": 0.8238,
+    "seconds": 2.748
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.08615384615384615,
+    "wer": 0.25,
+    "confidence": 0.8184,
+    "seconds": 1.479
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.13948717948717948,
+    "wer": 0.43333333333333335,
+    "confidence": 0.6715,
+    "seconds": 2.463
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.09743589743589744,
+    "wer": 0.2916666666666667,
+    "confidence": 0.7733,
+    "seconds": 1.506
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.09641025641025641,
+    "wer": 0.3,
+    "confidence": 0.7764,
+    "seconds": 2.395
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.08102564102564103,
+    "wer": 0.225,
+    "confidence": 0.8219,
+    "seconds": 1.395
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.07384615384615385,
+    "wer": 0.2,
+    "confidence": 0.8154,
+    "seconds": 2.34
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.9087179487179488,
+    "wer": 0.9166666666666666,
+    "confidence": 0.8233,
+    "seconds": 1.079
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.5733333333333334,
+    "wer": 0.6666666666666666,
+    "confidence": 0.8122,
+    "seconds": 2.098
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.9117948717948718,
+    "wer": 0.95,
+    "confidence": 0.6854,
+    "seconds": 1.047
+  },
+  {
+    "code": "tel",
+    "page": 2,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.06461538461538462,
+    "wer": 0.16666666666666666,
+    "confidence": 0.8325,
+    "seconds": 2.328
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.043243243243243246,
+    "wer": 0.2457627118644068,
+    "confidence": 0.8635,
+    "seconds": 1.353
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.043243243243243246,
+    "wer": 0.2457627118644068,
+    "confidence": 0.8574,
+    "seconds": 2.295
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.03891891891891892,
+    "wer": 0.211864406779661,
+    "confidence": 0.8684,
+    "seconds": 1.277
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.032432432432432434,
+    "wer": 0.1694915254237288,
+    "confidence": 0.8822,
+    "seconds": 2.295
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.03783783783783784,
+    "wer": 0.2033898305084746,
+    "confidence": 0.8715,
+    "seconds": 1.672
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.03783783783783784,
+    "wer": 0.211864406779661,
+    "confidence": 0.8679,
+    "seconds": 2.504
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.03351351351351351,
+    "wer": 0.17796610169491525,
+    "confidence": 0.8662,
+    "seconds": 1.323
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.09297297297297297,
+    "wer": 0.3813559322033898,
+    "confidence": 0.726,
+    "seconds": 2.343
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.04756756756756757,
+    "wer": 0.22033898305084745,
+    "confidence": 0.807,
+    "seconds": 1.336
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.04756756756756757,
+    "wer": 0.22033898305084745,
+    "confidence": 0.8178,
+    "seconds": 2.271
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.036756756756756756,
+    "wer": 0.1864406779661017,
+    "confidence": 0.8659,
+    "seconds": 1.296
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.036756756756756756,
+    "wer": 0.19491525423728814,
+    "confidence": 0.8804,
+    "seconds": 2.229
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.68,
+    "wer": 0.7627118644067796,
+    "confidence": 0.829,
+    "seconds": 1.263
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.6843243243243243,
+    "wer": 0.7203389830508474,
+    "confidence": 0.8472,
+    "seconds": 1.917
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.6864864864864865,
+    "wer": 0.788135593220339,
+    "confidence": 0.8105,
+    "seconds": 1.272
+  },
+  {
+    "code": "kan",
+    "page": 0,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.03027027027027027,
+    "wer": 0.17796610169491525,
+    "confidence": 0.8593,
+    "seconds": 2.185
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.04085801838610827,
+    "wer": 0.24347826086956523,
+    "confidence": 0.8378,
+    "seconds": 1.316
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.04085801838610827,
+    "wer": 0.24347826086956523,
+    "confidence": 0.8343,
+    "seconds": 2.267
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.04187946884576098,
+    "wer": 0.24347826086956523,
+    "confidence": 0.8044,
+    "seconds": 1.383
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.03881511746680286,
+    "wer": 0.21739130434782608,
+    "confidence": 0.8166,
+    "seconds": 2.291
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.0296220633299285,
+    "wer": 0.19130434782608696,
+    "confidence": 0.823,
+    "seconds": 1.775
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.031664964249233915,
+    "wer": 0.20869565217391303,
+    "confidence": 0.8291,
+    "seconds": 2.547
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.03575076608784474,
+    "wer": 0.21739130434782608,
+    "confidence": 0.8173,
+    "seconds": 1.395
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.07865168539325842,
+    "wer": 0.3652173913043478,
+    "confidence": 0.7293,
+    "seconds": 2.378
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.03983656792645557,
+    "wer": 0.25217391304347825,
+    "confidence": 0.8287,
+    "seconds": 1.407
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.03677221654749745,
+    "wer": 0.24347826086956523,
+    "confidence": 0.8123,
+    "seconds": 2.288
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.03575076608784474,
+    "wer": 0.21739130434782608,
+    "confidence": 0.8479,
+    "seconds": 1.341
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.0296220633299285,
+    "wer": 0.2,
+    "confidence": 0.8448,
+    "seconds": 2.26
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.6823289070480082,
+    "wer": 0.7391304347826086,
+    "confidence": 0.815,
+    "seconds": 1.283
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.6618998978549541,
+    "wer": 0.7217391304347827,
+    "confidence": 0.7336,
+    "seconds": 1.906
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.686414708886619,
+    "wer": 0.7565217391304347,
+    "confidence": 0.8023,
+    "seconds": 1.175
+  },
+  {
+    "code": "kan",
+    "page": 1,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.021450459652706845,
+    "wer": 0.13043478260869565,
+    "confidence": 0.8349,
+    "seconds": 2.276
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.032091097308488616,
+    "wer": 0.24166666666666667,
+    "confidence": 0.8949,
+    "seconds": 1.402
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.030020703933747412,
+    "wer": 0.225,
+    "confidence": 0.8878,
+    "seconds": 2.256
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.033126293995859216,
+    "wer": 0.23333333333333334,
+    "confidence": 0.8761,
+    "seconds": 1.384
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.036231884057971016,
+    "wer": 0.25,
+    "confidence": 0.8777,
+    "seconds": 2.244
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.027950310559006212,
+    "wer": 0.2,
+    "confidence": 0.8754,
+    "seconds": 1.686
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.027950310559006212,
+    "wer": 0.19166666666666668,
+    "confidence": 0.8778,
+    "seconds": 2.542
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.035196687370600416,
+    "wer": 0.26666666666666666,
+    "confidence": 0.8738,
+    "seconds": 1.36
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.09316770186335403,
+    "wer": 0.4166666666666667,
+    "confidence": 0.7492,
+    "seconds": 2.342
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.038302277432712216,
+    "wer": 0.24166666666666667,
+    "confidence": 0.8567,
+    "seconds": 1.441
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.035196687370600416,
+    "wer": 0.225,
+    "confidence": 0.8586,
+    "seconds": 2.332
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.033126293995859216,
+    "wer": 0.25,
+    "confidence": 0.8921,
+    "seconds": 1.37
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.030020703933747412,
+    "wer": 0.225,
+    "confidence": 0.8713,
+    "seconds": 2.297
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.8757763975155279,
+    "wer": 0.8833333333333333,
+    "confidence": 0.8647,
+    "seconds": 1.148
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.727743271221532,
+    "wer": 0.775,
+    "confidence": 0.8376,
+    "seconds": 1.809
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.8747412008281573,
+    "wer": 0.875,
+    "confidence": 0.8395,
+    "seconds": 1.065
+  },
+  {
+    "code": "kan",
+    "page": 2,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.027950310559006212,
+    "wer": 0.225,
+    "confidence": 0.8817,
+    "seconds": 2.234
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.08763837638376384,
+    "wer": 0.3130434782608696,
+    "confidence": 0.8397,
+    "seconds": 1.356
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.08763837638376384,
+    "wer": 0.3130434782608696,
+    "confidence": 0.8439,
+    "seconds": 2.117
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.09132841328413284,
+    "wer": 0.3391304347826087,
+    "confidence": 0.8332,
+    "seconds": 1.339
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.0959409594095941,
+    "wer": 0.3565217391304348,
+    "confidence": 0.8394,
+    "seconds": 2.283
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.08579335793357934,
+    "wer": 0.30434782608695654,
+    "confidence": 0.8457,
+    "seconds": 1.731
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.08671586715867159,
+    "wer": 0.3130434782608696,
+    "confidence": 0.832,
+    "seconds": 2.609
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.0959409594095941,
+    "wer": 0.34782608695652173,
+    "confidence": 0.8281,
+    "seconds": 1.365
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.12915129151291513,
+    "wer": 0.4956521739130435,
+    "confidence": 0.7292,
+    "seconds": 2.359
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.09870848708487084,
+    "wer": 0.3739130434782609,
+    "confidence": 0.7997,
+    "seconds": 1.463
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.09778597785977859,
+    "wer": 0.3826086956521739,
+    "confidence": 0.7864,
+    "seconds": 2.413
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.08856088560885608,
+    "wer": 0.30434782608695654,
+    "confidence": 0.8394,
+    "seconds": 1.384
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.09132841328413284,
+    "wer": 0.3391304347826087,
+    "confidence": 0.8241,
+    "seconds": 2.202
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.6854243542435424,
+    "wer": 0.7478260869565218,
+    "confidence": 0.8079,
+    "seconds": 1.331
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.47878228782287824,
+    "wer": 0.6347826086956522,
+    "confidence": 0.7862,
+    "seconds": 2.336
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.683579335793358,
+    "wer": 0.7565217391304347,
+    "confidence": 0.8013,
+    "seconds": 1.26
+  },
+  {
+    "code": "mal",
+    "page": 0,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.0940959409594096,
+    "wer": 0.3391304347826087,
+    "confidence": 0.845,
+    "seconds": 2.273
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.0925589836660617,
+    "wer": 0.4434782608695652,
+    "confidence": 0.8219,
+    "seconds": 1.385
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.0925589836660617,
+    "wer": 0.45217391304347826,
+    "confidence": 0.8284,
+    "seconds": 2.302
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.09800362976406533,
+    "wer": 0.4608695652173913,
+    "confidence": 0.8171,
+    "seconds": 1.41
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.10072595281306715,
+    "wer": 0.4956521739130435,
+    "confidence": 0.8265,
+    "seconds": 2.293
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.09618874773139746,
+    "wer": 0.43478260869565216,
+    "confidence": 0.8201,
+    "seconds": 1.739
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.09528130671506352,
+    "wer": 0.4434782608695652,
+    "confidence": 0.8327,
+    "seconds": 2.551
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.09709618874773139,
+    "wer": 0.46956521739130436,
+    "confidence": 0.8192,
+    "seconds": 1.441
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.13883847549909256,
+    "wer": 0.6347826086956522,
+    "confidence": 0.7019,
+    "seconds": 2.452
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.1206896551724138,
+    "wer": 0.5304347826086957,
+    "confidence": 0.7326,
+    "seconds": 1.506
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.12431941923774954,
+    "wer": 0.5391304347826087,
+    "confidence": 0.7401,
+    "seconds": 2.355
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.09891107078039928,
+    "wer": 0.45217391304347826,
+    "confidence": 0.7979,
+    "seconds": 1.376
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.09800362976406533,
+    "wer": 0.46956521739130436,
+    "confidence": 0.8243,
+    "seconds": 2.295
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.6569872958257713,
+    "wer": 0.7739130434782608,
+    "confidence": 0.7827,
+    "seconds": 1.397
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.5526315789473685,
+    "wer": 0.7217391304347827,
+    "confidence": 0.7632,
+    "seconds": 2.291
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.6497277676950998,
+    "wer": 0.8,
+    "confidence": 0.7674,
+    "seconds": 1.311
+  },
+  {
+    "code": "mal",
+    "page": 1,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.0998185117967332,
+    "wer": 0.4608695652173913,
+    "confidence": 0.8072,
+    "seconds": 2.311
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "condition": "clean",
+    "variant": "grayscale",
+    "cer": 0.0818926296633303,
+    "wer": 0.37606837606837606,
+    "confidence": 0.8494,
+    "seconds": 1.362
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "condition": "clean",
+    "variant": "denoise",
+    "cer": 0.0818926296633303,
+    "wer": 0.37606837606837606,
+    "confidence": 0.8463,
+    "seconds": 2.232
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "condition": "clean",
+    "variant": "binarise",
+    "cer": 0.08553230209281165,
+    "wer": 0.37606837606837606,
+    "confidence": 0.8325,
+    "seconds": 1.414
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "condition": "clean",
+    "variant": "adaptive",
+    "cer": 0.08371246587807098,
+    "wer": 0.38461538461538464,
+    "confidence": 0.8173,
+    "seconds": 2.199
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "grayscale",
+    "cer": 0.07643312101910828,
+    "wer": 0.3504273504273504,
+    "confidence": 0.8479,
+    "seconds": 1.698
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "denoise",
+    "cer": 0.0746132848043676,
+    "wer": 0.3418803418803419,
+    "confidence": 0.8457,
+    "seconds": 2.53
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "binarise",
+    "cer": 0.08371246587807098,
+    "wer": 0.37606837606837606,
+    "confidence": 0.8282,
+    "seconds": 1.396
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "condition": "noisy",
+    "variant": "adaptive",
+    "cer": 0.1264786169244768,
+    "wer": 0.5384615384615384,
+    "confidence": 0.7219,
+    "seconds": 2.35
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "grayscale",
+    "cer": 0.4121929026387625,
+    "wer": 0.6495726495726496,
+    "confidence": 0.7623,
+    "seconds": 1.093
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "denoise",
+    "cer": 0.37670609645131936,
+    "wer": 0.6239316239316239,
+    "confidence": 0.7578,
+    "seconds": 1.992
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "binarise",
+    "cer": 0.07734303912647862,
+    "wer": 0.36752136752136755,
+    "confidence": 0.8247,
+    "seconds": 1.385
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "condition": "skewed",
+    "variant": "adaptive",
+    "cer": 0.08007279344858963,
+    "wer": 0.36752136752136755,
+    "confidence": 0.8451,
+    "seconds": 2.305
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "condition": "photo",
+    "variant": "grayscale",
+    "cer": 0.7352138307552321,
+    "wer": 0.8803418803418803,
+    "confidence": 0.8512,
+    "seconds": 1.259
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "condition": "photo",
+    "variant": "denoise",
+    "cer": 0.48498635122838946,
+    "wer": 0.6581196581196581,
+    "confidence": 0.8352,
+    "seconds": 2.199
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "condition": "photo",
+    "variant": "binarise",
+    "cer": 0.7361237488626023,
+    "wer": 0.8803418803418803,
+    "confidence": 0.8354,
+    "seconds": 1.203
+  },
+  {
+    "code": "mal",
+    "page": 2,
+    "condition": "photo",
+    "variant": "adaptive",
+    "cer": 0.08462238398544131,
+    "wer": 0.36752136752136755,
+    "confidence": 0.8281,
+    "seconds": 2.299
+  }
+]

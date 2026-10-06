@@ -1,0 +1,107 @@
+[
+  {
+    "code": "kan",
+    "variant": "native_script",
+    "k": 1,
+    "hits": 4,
+    "hit_rate": 0.0667
+  },
+  {
+    "code": "kan",
+    "variant": "native_script",
+    "k": 3,
+    "hits": 8,
+    "hit_rate": 0.1333
+  },
+  {
+    "code": "kan",
+    "variant": "native_script",
+    "k": 5,
+    "hits": 8,
+    "hit_rate": 0.1333
+  },
+  {
+    "code": "kan",
+    "variant": "translated",
+    "k": 1,
+    "hits": 34,
+    "hit_rate": 0.5667
+  },
+  {
+    "code": "kan",
+    "variant": "translated",
+    "k": 3,
+    "hits": 47,
+    "hit_rate": 0.7833
+  },
+  {
+    "code": "kan",
+    "variant": "translated",
+    "k": 5,
+    "hits": 50,
+    "hit_rate": 0.8333
+  },
+  {
+    "code": "hin",
+    "variant": "native_script",
+    "k": 1,
+    "hits": 1,
+    "hit_rate": 0.0167
+  },
+  {
+    "code": "hin",
+    "variant": "native_script",
+    "k": 3,
+    "hits": 4,
+    "hit_rate": 0.0667
+  },
+  {
+    "code": "hin",
+    "variant": "native_script",
+    "k": 5,
+    "hits": 4,
+    "hit_rate": 0.0667
+  },
+  {
+    "code": "hin",
+    "variant": "translated",
+    "k": 1,
+    "hits": 30,
+    "hit_rate": 0.5
+  },
+  {
+    "code": "hin",
+    "variant": "translated",
+    "k": 3,
+    "hits": 40,
+    "hit_rate": 0.6667
+  },
+  {
+    "code": "hin",
+    "variant": "translated",
+    "k": 5,
+    "hits": 41,
+    "hit_rate": 0.6833
+  },
+  {
+    "code": "eng",
+    "variant": "reference",
+    "k": 1,
+    "hits": 35,
+    "hit_rate": 0.5833
+  },
+  {
+    "code": "eng",
+    "variant": "reference",
+    "k": 3,
+    "hits": 46,
+    "hit_rate": 0.7667
+  },
+  {
+    "code": "eng",
+    "variant": "reference",
+    "k": 5,
+    "hits": 47,
+    "hit_rate": 0.7833
+  }
+]

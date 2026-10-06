@@ -1,0 +1,5 @@
+handwritten_notes.jpg True 0.3499 [('kan', 0.5671), ('eng', 0.4329)] 1181 chars
+handwritten_notes.jpg False 0.338 [('eng', 0.6187), ('kan', 0.3813)] 575 chars
+printed_page.jpg True 0.4466 [('kan', 0.8557), ('eng', 0.1443)] 1014 chars
+printed_page.jpg False 0.3786 [('kan', 0.802), ('eng', 0.198)] 918 chars
+saved C:\Users\User-PC\Documents\interns-project-tealsquare\indic-doc-intelligence\experiments\results\exp6_photos.json

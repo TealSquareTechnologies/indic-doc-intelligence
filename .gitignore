@@ -1,0 +1,49 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Runtime data
+/data/
+*.db
+*.sqlite3
+*.db-journal
+
+# Model and tooling caches
+.cache/
+models/
+
+# Downloaded recognition language data
+tessdata/
+
+# Experiment artefacts (large rendered pages); results JSON is kept.
+experiments/pages/
+
+# Editor and OS noise
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini

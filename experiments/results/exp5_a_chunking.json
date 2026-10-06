@@ -1,0 +1,212 @@
+[
+  {
+    "strategy": "words",
+    "size": 40,
+    "overlap": 8,
+    "chunks": 158,
+    "k": 1,
+    "hits": 25,
+    "hit_rate": 0.4167,
+    "index_seconds": 36.25
+  },
+  {
+    "strategy": "words",
+    "size": 40,
+    "overlap": 8,
+    "chunks": 158,
+    "k": 3,
+    "hits": 34,
+    "hit_rate": 0.5667,
+    "index_seconds": 36.25
+  },
+  {
+    "strategy": "words",
+    "size": 40,
+    "overlap": 8,
+    "chunks": 158,
+    "k": 5,
+    "hits": 36,
+    "hit_rate": 0.6,
+    "index_seconds": 36.25
+  },
+  {
+    "strategy": "words",
+    "size": 80,
+    "overlap": 16,
+    "chunks": 79,
+    "k": 1,
+    "hits": 35,
+    "hit_rate": 0.5833,
+    "index_seconds": 0.89
+  },
+  {
+    "strategy": "words",
+    "size": 80,
+    "overlap": 16,
+    "chunks": 79,
+    "k": 3,
+    "hits": 43,
+    "hit_rate": 0.7167,
+    "index_seconds": 0.89
+  },
+  {
+    "strategy": "words",
+    "size": 80,
+    "overlap": 16,
+    "chunks": 79,
+    "k": 5,
+    "hits": 45,
+    "hit_rate": 0.75,
+    "index_seconds": 0.89
+  },
+  {
+    "strategy": "words",
+    "size": 160,
+    "overlap": 32,
+    "chunks": 40,
+    "k": 1,
+    "hits": 39,
+    "hit_rate": 0.65,
+    "index_seconds": 1.6
+  },
+  {
+    "strategy": "words",
+    "size": 160,
+    "overlap": 32,
+    "chunks": 40,
+    "k": 3,
+    "hits": 49,
+    "hit_rate": 0.8167,
+    "index_seconds": 1.6
+  },
+  {
+    "strategy": "words",
+    "size": 160,
+    "overlap": 32,
+    "chunks": 40,
+    "k": 5,
+    "hits": 50,
+    "hit_rate": 0.8333,
+    "index_seconds": 1.6
+  },
+  {
+    "strategy": "words",
+    "size": 250,
+    "overlap": 50,
+    "chunks": 26,
+    "k": 1,
+    "hits": 30,
+    "hit_rate": 0.5,
+    "index_seconds": 0.62
+  },
+  {
+    "strategy": "words",
+    "size": 250,
+    "overlap": 50,
+    "chunks": 26,
+    "k": 3,
+    "hits": 43,
+    "hit_rate": 0.7167,
+    "index_seconds": 0.62
+  },
+  {
+    "strategy": "words",
+    "size": 250,
+    "overlap": 50,
+    "chunks": 26,
+    "k": 5,
+    "hits": 46,
+    "hit_rate": 0.7667,
+    "index_seconds": 0.62
+  },
+  {
+    "strategy": "sentences",
+    "size": 40,
+    "overlap": 0,
+    "chunks": 174,
+    "k": 1,
+    "hits": 47,
+    "hit_rate": 0.7833,
+    "index_seconds": 1.4
+  },
+  {
+    "strategy": "sentences",
+    "size": 40,
+    "overlap": 0,
+    "chunks": 174,
+    "k": 3,
+    "hits": 56,
+    "hit_rate": 0.9333,
+    "index_seconds": 1.4
+  },
+  {
+    "strategy": "sentences",
+    "size": 40,
+    "overlap": 0,
+    "chunks": 174,
+    "k": 5,
+    "hits": 56,
+    "hit_rate": 0.9333,
+    "index_seconds": 1.4
+  },
+  {
+    "strategy": "sentences",
+    "size": 80,
+    "overlap": 0,
+    "chunks": 74,
+    "k": 1,
+    "hits": 35,
+    "hit_rate": 0.5833,
+    "index_seconds": 1.4
+  },
+  {
+    "strategy": "sentences",
+    "size": 80,
+    "overlap": 0,
+    "chunks": 74,
+    "k": 3,
+    "hits": 46,
+    "hit_rate": 0.7667,
+    "index_seconds": 1.4
+  },
+  {
+    "strategy": "sentences",
+    "size": 80,
+    "overlap": 0,
+    "chunks": 74,
+    "k": 5,
+    "hits": 47,
+    "hit_rate": 0.7833,
+    "index_seconds": 1.4
+  },
+  {
+    "strategy": "sentences",
+    "size": 160,
+    "overlap": 0,
+    "chunks": 34,
+    "k": 1,
+    "hits": 41,
+    "hit_rate": 0.6833,
+    "index_seconds": 1.48
+  },
+  {
+    "strategy": "sentences",
+    "size": 160,
+    "overlap": 0,
+    "chunks": 34,
+    "k": 3,
+    "hits": 46,
+    "hit_rate": 0.7667,
+    "index_seconds": 1.48
+  },
+  {
+    "strategy": "sentences",
+    "size": 160,
+    "overlap": 0,
+    "chunks": 34,
+    "k": 5,
+    "hits": 51,
+    "hit_rate": 0.85,
+    "index_seconds": 1.48
+  }
+]

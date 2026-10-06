@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Indic Document Intelligence</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <div class="brand">
+        <h1>Indic Document Intelligence</h1>
+        <p>Recognise, correct, translate and question multilingual documents.</p>
+      </div>
+      <div class="status" id="status" aria-live="polite"></div>
+    </div>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab is-active" role="tab" data-panel="process">Process</button>
+    <button class="tab" role="tab" data-panel="library">Library</button>
+    <button class="tab" role="tab" data-panel="ask">Ask</button>
+    <button class="tab" role="tab" data-panel="translate">Translate</button>
+  </nav>
+
+  <main>
+    <!-- Process -->
+    <section class="panel is-active" id="panel-process" role="tabpanel">
+      <div class="card">
+        <h2>Process a document</h2>
+        <p class="hint">Upload an image, PDF or text file.</p>
+
+        <form id="process-form">
+          <div class="dropzone" id="dropzone" tabindex="0">
+            <input type="file" id="file-input" accept="image/*,application/pdf,.pdf,.txt,.md" hidden />
+            <p class="dropzone-title">Drop a file here, or click to choose</p>
+            <p class="dropzone-hint">Images (JPEG, PNG, WebP, BMP, TIFF), PDF or plain text</p>
+            <p class="dropzone-file" id="file-name"></p>
+          </div>
+
+          <div class="field-row">
+            <label class="field">
+              <span>Languages to extract</span>
+              <select id="language-select" multiple size="5"></select>
+              <small>Leave empty for the default. Ctrl or Cmd to multi-select.</small>
+            </label>
+
+            <div class="field">
+              <span>Options</span>
+              <label class="check"><input type="checkbox" id="opt-correct" checked /> Correct recognition errors</label>
+              <label class="check"><input type="checkbox" id="opt-translate" /> Translate the result</label>
+              <label class="check"><input type="checkbox" id="opt-index" checked /> Index for questions</label>
+
+              <label class="field compact">
+                <span>Translate into</span>
+                <select id="target-language"></select>
+              </label>
+
+              <label class="field compact">
+                <span>Chunking</span>
+                <select id="strategy">
+                  <option value="words">Fixed size windows</option>
+                  <option value="paragraphs">Paragraphs</option>
+                  <option value="sentences">Sentences</option>
+                </select>
+              </label>
+            </div>
+          </div>
+
+          <div class="actions">
+            <button type="submit" class="button primary" id="process-submit">Process document</button>
+            <button type="button" class="button danger" id="process-stop" hidden>Stop</button>
+            <span class="spinner" id="process-spinner" hidden></span>
+            <span class="elapsed" id="process-elapsed" hidden></span>
+          </div>
+        </form>
+
+        <div id="process-result"></div>
+      </div>
+    </section>
+
+    <!-- Library -->
+    <section class="panel" id="panel-library" role="tabpanel">
+      <div class="card">
+        <div class="card-head">
+          <h2>Library</h2>
+          <button class="button" id="refresh-library">Refresh</button>
+        </div>
+        <p class="hint">Your stored documents, newest first.</p>
+        <div id="library-list"></div>
+      </div>
+      <div class="card" id="document-detail" hidden></div>
+    </section>
+
+    <!-- Ask -->
+    <section class="panel" id="panel-ask" role="tabpanel">
+      <div class="card">
+        <h2>Ask a question</h2>
+        <p class="hint">Answers come only from your documents, with sources shown.</p>
+
+        <form id="ask-form">
+          <label class="field">
+            <span>Question</span>
+            <input type="text" id="question" placeholder="What does the document say about leave policy?" required />
+          </label>
+
+          <div class="field-row">
+            <label class="field compact">
+              <span>Restrict to document</span>
+              <select id="ask-document"><option value="">All documents</option></select>
+            </label>
+            <label class="field compact">
+              <span>Chunks to retrieve</span>
+              <input type="number" id="ask-topk" min="1" max="20" value="3" />
+            </label>
+          </div>
+
+          <div class="actions">
+            <button type="submit" class="button primary" id="ask-submit">Ask</button>
+            <button type="button" class="button danger" id="ask-stop" hidden>Stop</button>
+            <span class="spinner" id="ask-spinner" hidden></span>
+            <span class="elapsed" id="ask-elapsed" hidden></span>
+          </div>
+        </form>
+
+        <div id="ask-result"></div>
+      </div>
+    </section>
+
+    <!-- Translate -->
+    <section class="panel" id="panel-translate" role="tabpanel">
+      <div class="card">
+        <h2>Translate text</h2>
+        <p class="hint">Paste text to translate.</p>
+
+        <form id="translate-form">
+          <label class="field">
+            <span>Source text</span>
+            <textarea id="translate-input" rows="7" required></textarea>
+          </label>
+          <label class="field compact">
+            <span>Translate into</span>
+            <select id="translate-target"></select>
+          </label>
+          <div class="actions">
+            <button type="submit" class="button primary" id="translate-submit">Translate</button>
+            <button type="button" class="button danger" id="translate-stop" hidden>Stop</button>
+            <span class="spinner" id="translate-spinner" hidden></span>
+            <span class="elapsed" id="translate-elapsed" hidden></span>
+          </div>
+        </form>
+
+        <div id="translate-result"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <a href="/docs" target="_blank" rel="noreferrer">API reference</a>
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

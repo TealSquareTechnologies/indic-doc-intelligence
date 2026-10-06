@@ -1,0 +1,4 @@
+# Batch files need CRLF: cmd.exe resolves goto labels by byte offset and
+# mis-seeks on LF-only files. Shell scripts must stay LF for the shebang.
+*.bat text eol=crlf
+*.sh  text eol=lf

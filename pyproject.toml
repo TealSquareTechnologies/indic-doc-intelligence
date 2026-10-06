@@ -1,0 +1,70 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "indic-doc-intelligence"
+version = "1.0.0"
+description = "Multilingual document intelligence: OCR, correction, translation and grounded question answering for Indian-language documents."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.109.0",
+    "uvicorn[standard]>=0.27.0",
+    "pydantic>=2.6.0",
+    "pydantic-settings>=2.2.0",
+    "python-multipart>=0.0.9",
+    "python-dotenv>=1.0.1",
+    "openai>=1.12.0",
+    "pytesseract>=0.3.10",
+    "pillow>=10.2.0",
+    "opencv-python-headless>=4.9.0.80",
+    "numpy>=1.26.0",
+    "pypdf>=4.2.0",
+    "pypdfium2>=4.30.0",
+]
+
+[project.optional-dependencies]
+# Question answering needs an embedding model, which pulls in a large machine learning
+# stack. It is kept separate so the rest of the platform installs quickly; without it
+# every other feature still works and search reports itself as unavailable.
+search = [
+    "sentence-transformers>=2.6.0",
+]
+dev = [
+    "pytest>=8.0.0",
+    "httpx>=0.27.0",
+    "ruff>=0.4.0",
+]
+# Scoring libraries used only by the scripts under experiments/.
+experiments = [
+    "jiwer>=3.0.0",
+    "sacrebleu>=2.4.0",
+]
+
+[project.scripts]
+indic-doc = "app.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+app = ["db/*.sql", "web/*.html", "web/static/*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+
+[tool.ruff.lint.per-file-ignores]
+# FastAPI declares request parameters by calling File, Form and Depends in argument
+# defaults. That is the framework's supported idiom, not the mutable-default bug B008
+# guards against.
+"src/app/api/routes/*.py" = ["B008"]
+"src/app/main.py" = ["B008"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
