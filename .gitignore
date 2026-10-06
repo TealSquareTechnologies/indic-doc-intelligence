@@ -47,3 +47,9 @@ experiments/pages/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Local AI assistant files
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+AGENTS.md
